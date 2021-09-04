@@ -1,0 +1,113 @@
+.demo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title{
+    margin-top: 30px;
+    height: 40px;
+    width: 400px;
+    border-radius: 0px 100px 0px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 0);
+}
+
+.title>h2{
+    font-size: 15px;
+}
+
+sub{
+    font-size: 10px;
+}
+
+.courses{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(21, 21, 61);
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 15px;
+    width: 90%;
+   
+}
+
+.details{
+    width: 100%;
+}
+
+/* .box1{
+    height: 4em ;
+    width: 90%;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    margin: 20px;
+} */
+
+.box2{
+    width: 90%;
+    margin-top: 20px;
+    text-align: left;
+    color: white;
+}
+
+.box3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-bottom: 20px;
+    color: black;
+    border-radius: 25px;
+}
+
+/* .courses>.box1>sub{
+    font-size: 10px;
+} */
+
+.dropCollapse{
+    width: 100vw;
+}
+ 
+.btn {
+    background-color: rgb(255, 255, 255);
+    color: rgb(21, 21, 61);
+    width: 100px;
+    height: 50px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: rgb(245, 245, 245);
+}
+
+@media screen and (max-width:500px) {
+    /* .box1{
+        font-size: 20px; */
+   
+    .box3{
+        font-size: 12px;
+    }   
+}
+
+
+@media screen and (max-width: 450px){
+    .title{
+        width: 300px;
+    }
+    .title>h2{
+        font-size: 10px;
+    }
+    .title>h2>sub{
+        font-size: 10px;
+
+    }
+}
+ 
