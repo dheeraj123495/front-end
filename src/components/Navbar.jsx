@@ -21,18 +21,21 @@ function Navbar() {
 
                         <div className="userpart">
                             <div className="nav-item dropdown">
-                                <div className="dropdown">
-                                    <button className="btn" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                                        <img src={face} alt="Avatar" /><i className="fas fa-arrow-circle-down" id="drpbtn"></i>
-                                    </button>
-                                    <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                {/* <div className="dropdown"> */}
+                                    
+                                        <NavLink type="Link" exact to="./Profile" >
+                                            <img src={face} alt="Avatar" /><i className="fas fa-arrow-circle-down" id="drpbtn"></i>
+                                        </NavLink>
+                                    
+                                    {/* <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
                                         <NavLink type="Link" exact to="./Profile" >
                                             <li><a className="dropdown-item" href="/#"><i className="fas fa-address-card"></i> Profile</a></li>
                                         </NavLink>
-                                        <li><a className="dropdown-item" href="/#"><i className="fas fa-code"></i> Developer Info</a></li>
-                                        <li><a className="dropdown-item" href="/#"><i className="fas fa-sign-out-alt"></i>Logout</a></li>
-                                    </ul>
-                                </div>
+                                        {/* <li><a className="dropdown-item" href="/#"><i className="fas fa-code"></i> Developer Info</a></li>
+                                        <li><a className="dropdown-item" href="/#"><i className="fas fa-sign-out-alt"></i>Logout</a></li> */}
+                                    {/* </ul>  */}
+
+                                {/* </div> */}
 
                             </div>
                         </div>

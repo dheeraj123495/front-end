@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.profile{
+    height: 100vh;
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.mainProfile{
+    border-radius: 100px;
+    border: 10px solid black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-size: x-large;
+    /* background-color: blue; */
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    padding: 20px;
+    /* background-color: blueviolet; */
+}
+h3{
+    margin: 10px;
+}
+.cells{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+@media screen and (max-width:700px){
+    .mainProfile{
+        padding:10%;    
+        margin: 50% 15% 40% 60%;
+    }
+    h3{
+     font-size: 15px;
+    }
+}
+.cell{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 150px;
+    /* margin: 5px; */
+    
+    /* background-color: aqua; */
+}
+.heading{
+    font-weight: bold;
+    font-size: large;
+}
+button{
+    width: 100px;
+    padding: 5px;
+    background-color: rgb(3, 3, 3);
+    color: aliceblue;
+    border: 0;
+    border-radius: 50px;
+}
+.button{
+    font-weight: bold;
+    margin: 20px 0 0 0 ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button:hover{
+    background-color: rgb(255, 71, 71);
+    color: black;
+}

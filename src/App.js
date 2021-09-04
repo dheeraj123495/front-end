@@ -24,7 +24,7 @@ import Phy from './components/Phy';
 import Mat from './components/Mat';
 import EPM from './components/EPM';
 
-// import Profile from './components/Profile';
+import Profile from './components/Profile';
 
 function App() {
   return (
@@ -57,7 +57,7 @@ function App() {
           <Route exact path="/Phy" component={Phy} />
           <Route exact path="/Mat" component={Mat} />
           <Route exact path="/EPM" component={EPM} />
-          {/* <Route exact path="/Profile" component={Profile} /> */}
+          <Route exact path="/Profile" component={Profile} />
         </Switch>
       </Router>
       
