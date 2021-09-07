@@ -1,110 +1,192 @@
-import React from 'react'
-import brain from './brain.jpg';
-import './New'
-import { NavLink } from 'react-router-dom';
+import React, { useEffect, useState } from "react";
+import { useHistory, useParams } from "react-router";
+import { getUsers } from "../Service/api";
+import brain from "./brain.jpg";
+import "./New";
+import { NavLink } from "react-router-dom";
+import Navbar from "./Navbar";
+// import logo from './klelogo.png';
+// import face from './avatar1.png';
+import "./New.css";
+// import brain from './brain.jpg';
+// import mach from './mach.png';
+// import network from './network.jpg';
+
+// https://codemyui.com/awesome-box-shadow-effect-for-card-ui/
+
+const initialValues = {
+  id: "",
+  Name: "",
+  Email: "",
+  Password: "",
+  Branch: "",
+  openelectives: "",
+  openelectiveconfirm: "",
+};
+
 function Civil() {
-    return (
-        <div>
-            <div id="sidebox">
+  const history = useHistory();
+  const { id } = useParams();
 
-                <div className="sidebar-container">
+  const auth = localStorage.getItem("password");
 
-                    <ul className="sidebar-navigation">
-                        <li className="header"><i className="fas fa-angle-double-right" aria-hidden="true"></i> Open-Elective</li>
-                        <NavLink type="Link" exact to="./CSE" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-laptop-code" aria-hidden="true"></i> <span id="mytext">  Computer Science</span>
+  const [user, setUser] = useState(initialValues);
 
-                                </a>
-                                {/* <NavLink exact to="./">CSE</NavLink> */}
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./EC" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-robot" aria-hidden="true"></i>   E&C
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./EE" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-plug" aria-hidden="true"></i>  EEE
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./Mechanical" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-cogs" aria-hidden="true"></i>  MECHANICAL
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./Civil" >
-                            <li>
-                                <a href="/#">
-                                    <i className="far fa-building" aria-hidden="true"></i> CIVIL
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./Maths" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-square-root-alt"></i> DEPT OF MATHEMATICS
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./Physics" >
-                            <li>
-                                <a href="/#">
-                                    <i className="far fa-lightbulb"></i> DEPT OF PHYSICS
-                                </a>
-                            </li>
-                        </NavLink>
-                    </ul>
-                </div>
+  useEffect(() => {
+    getAllUsers();
+  }, []);
 
+  const getAllUsers = async () => {
+    const response = await getUsers(id);
+    console.log(response.data);
+    setUser(response.data);
+    authentication();
+  };
+
+  const authentication = () => {
+    if (!auth) {
+      localStorage.removeItem("password");
+      history.push("/login");
+    }
+  };
+
+  const cse = () => {
+    history.push(`/CSE/${id}`);
+  };
+
+  const ec = () => {
+    history.push(`/EC/${id}`);
+  };
+
+  const eee = () => {
+    history.push(`/EEE/${id}`);
+  };
+
+  const me = () => {
+    history.push(`/ME/${id}`);
+  };
+
+  const cv = () => {
+    history.push(`/Civil/${id}`);
+  };
+
+  const maths = () => {
+    history.push(`/Maths/${id}`);
+  };
+
+  const physics = () => {
+    history.push(`/Physics/${id}`);
+  };
+
+  return (
+    <div>
+      <Navbar />
+
+      <div id="sidebox">
+        <div className="sidebar-container">
+          <ul className="sidebar-navigation">
+            <li className="header">
+              <i className="fas fa-angle-double-right" aria-hidden="true"></i>{" "}
+              Open-Elective
+            </li>
+            <div className="button">
+              {/* <NavLink type="Link" exact to="./CSE"> */}
+              {/* <li>
+                <a>Computer Science</a>
+              </li> */}
+              <button
+                onClick={() => {
+                  cse();
+                }}
+              >
+                CSE
+              </button>
+              {/* </NavLink> */}
+              <button
+                onClick={() => {
+                  ec();
+                }}
+              >
+                E&C
+              </button>
+              <button
+                onClick={() => {
+                  eee();
+                }}
+              >
+                EEE
+              </button>
+              <button
+                onClick={() => {
+                  me();
+                }}
+              >
+                ME
+              </button>
+              <button
+                onClick={() => {
+                  cv();
+                }}
+              >
+                CV
+              </button>
+              <button
+                onClick={() => {
+                  maths();
+                }}
+              >
+                DEPT OF MATHS
+              </button>
+              <button
+                onClick={() => {
+                  physics();
+                }}
+              >
+                DEPT OF PHYSICS
+              </button>
             </div>
-            <div id="mainbox">
-            <NavLink type="Link" exact to="./FEM" >
-                <div class="mybox">
-                    <img src={brain} class="brain" alt="" />
-
-                    <span class="ai">Finite element method</span>
-                    <span class="aicode">18cs45</span>
-
-                    {/* <button type="button" class="btn" id="applybtn"><b>Apply</b><i class="fas fa-arrow-alt-circle-right"></i></button> */}
-                </div>
-            </NavLink>
-            </div>
-
-            <div id="mainbox4">
-            <NavLink type="Link" exact to="./NMA" >
-                <div class="mybox2">
-                    <img src={brain} class="brain" alt="" />
-
-                    <span class="ai">Numerical methods and applications</span>
-                    <span class="aicode">18cs45</span>
-
-                    {/* <button type="button" class="btn" id="applybtn"><b>Apply</b><i class="fas fa-arrow-alt-circle-right"></i></button> */}
-                </div>
-                </NavLink>
-            </div>
-            <div id="mainbox4">
-            <NavLink type="Link" exact to="./EPM" >
-                <div class="mybox3">
-                    <img src={brain} class="brain" alt="" />
-
-                    <span class="ai">Environmental protection and managment </span>
-                    <span class="aicode">18cs45</span>
-
-                    {/* <button type="button" class="btn" id="applybtn"><b>Apply</b><i class="fas fa-arrow-alt-circle-right"></i></button> */}
-                </div>
-                </NavLink>
-            </div>
+          </ul>
         </div>
-    )
+      </div>
+      <div id="mainbox">
+        <NavLink type="Link" exact to={`./FEM/${id}`}>
+          <div class="mybox">
+            <img src={brain} class="brain" alt="" />
+
+            <span class="ai">Finite element method</span>
+            <span class="aicode">18cs45</span>
+
+            {/* <button type="button" class="btn" id="applybtn"><b>Apply</b><i class="fas fa-arrow-alt-circle-right"></i></button> */}
+          </div>
+        </NavLink>
+      </div>
+
+      <div id="mainbox4">
+        <NavLink type="Link" exact to={`./NMA/${id}`}>
+          <div class="mybox2">
+            <img src={brain} class="brain" alt="" />
+
+            <span class="ai">Numerical methods and applications</span>
+            <span class="aicode">18cs45</span>
+
+            {/* <button type="button" class="btn" id="applybtn"><b>Apply</b><i class="fas fa-arrow-alt-circle-right"></i></button> */}
+          </div>
+        </NavLink>
+      </div>
+      <div id="mainbox4">
+        <NavLink type="Link" exact to={`./EPM/${id}`}>
+          <div class="mybox3">
+            <img src={brain} class="brain" alt="" />
+
+            <span class="ai">Environmental protection and managment </span>
+            <span class="aicode">18cs45</span>
+
+            {/* <button type="button" class="btn" id="applybtn"><b>Apply</b><i class="fas fa-arrow-alt-circle-right"></i></button> */}
+          </div>
+        </NavLink>
+      </div>
+    </div>
+  );
 }
 
-export default Civil
+export default Civil;

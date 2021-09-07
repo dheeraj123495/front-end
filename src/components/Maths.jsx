@@ -1,74 +1,146 @@
-import React from 'react'
-import brain from './brain.jpg';
+import React, { useEffect, useState } from "react";
+import { useHistory, useParams } from "react-router";
+import { getUsers } from "../Service/api";import brain from './brain.jpg';
 import './New'
 import { NavLink } from 'react-router-dom'
+import Navbar from "./Navbar";
+const initialValues = {
+    id: "",
+    Name: "",
+    Email: "",
+    Password: "",
+    Branch: "",
+    openelectives: "",
+    openelectiveconfirm: "",
+  };
 
 function Maths() {
+    const history = useHistory();
+    const { id } = useParams();
+  
+    const auth = localStorage.getItem("password");
+  
+    const [user, setUser] = useState(initialValues);
+  
+    useEffect(() => {
+      getAllUsers();
+    }, []);
+  
+    const getAllUsers = async () => {
+      const response = await getUsers(id);
+      console.log(response.data);
+      setUser(response.data);
+      authentication();
+    };
+  
+    const authentication = () => {
+      if (!auth) {
+        localStorage.removeItem("password");
+        history.push("/login");
+      }
+    };
+  
+    const cse = () => {
+        history.push(`/CSE/${id}`);
+      };
+    
+      const ec = () => {
+        history.push(`/EC/${id}`);
+      };
+    
+      const eee = () => {
+        localStorage.removeItem("password");
+        history.push(`/EEE/${id}`);
+      };
+    
+      const me = () => {
+        history.push(`/ME/${id}`);
+      };
+    
+      const cv = () => {
+        history.push(`/CIVIL/${id}`);
+      };
+    
+      const maths = () => {
+        history.push(`/MATHS/${id}`);
+      };
+    
+      const physics = () => {
+        history.push(`/PHYSICS/${id}`);
+      };
+    
     return (
-        <div>
-            <div id="sidebox">
+      <div>
+                  <Navbar />
 
-                <div className="sidebar-container">
-
-                    <ul className="sidebar-navigation">
-                        <li className="header"><i className="fas fa-angle-double-right" aria-hidden="true"></i> Open-Elective</li>
-                        <NavLink type="Link" exact to="./CSE" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-laptop-code" aria-hidden="true"></i> <span id="mytext">  Computer Science</span>
-
-                                </a>
-                                {/* <NavLink exact to="./">CSE</NavLink> */}
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./EC" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-robot" aria-hidden="true"></i>   E&C
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./EE" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-plug" aria-hidden="true"></i>  EEE
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./Mechanical" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-cogs" aria-hidden="true"></i>  MECHANICAL
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./Civil" >
-                            <li>
-                                <a href="/#">
-                                    <i className="far fa-building" aria-hidden="true"></i> CIVIL
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./Maths" >
-                            <li>
-                                <a href="/#">
-                                    <i className="fas fa-square-root-alt"></i> DEPT OF MATHEMATICS
-                                </a>
-                            </li>
-                        </NavLink>
-                        <NavLink type="Link" exact to="./Physics" >
-                            <li>
-                                <a href="/#">
-                                    <i className="far fa-lightbulb"></i> DEPT OF PHYSICS
-                                </a>
-                            </li>
-                        </NavLink>
-                    </ul>
-                </div>
-
-            </div>
+        <div id="sidebox">
+          <div className="sidebar-container">
+            <ul className="sidebar-navigation">
+              <li className="header">
+                <i className="fas fa-angle-double-right" aria-hidden="true"></i>{" "}
+                Open-Elective
+              </li>
+              <div className="button">
+                {/* <NavLink type="Link" exact to="./CSE"> */}
+                {/* <li>
+                  <a>Computer Science</a>
+                </li> */}
+                <button
+                  onClick={() => {
+                    cse();
+                  }}
+                >
+                  CSE
+                </button>
+                {/* </NavLink> */}
+                <button
+                  onClick={() => {
+                    ec();
+                  }}
+                >
+                  E&C
+                </button>
+                <button
+                  onClick={() => {
+                    eee();
+                  }}
+                >
+                  EEE
+                </button>
+                <button
+                  onClick={() => {
+                    me();
+                  }}
+                >
+                  ME
+                </button>
+                <button
+                  onClick={() => {
+                    cv();
+                  }}
+                >
+                  CV
+                </button>
+                <button
+                  onClick={() => {
+                    maths();
+                  }}
+                >
+                  DEPT OF MATHS
+                </button>
+                <button
+                  onClick={() => {
+                    physics();
+                  }}
+                >
+                  DEPT OF PHYSICS
+                </button>
+              </div>
+            </ul>
+          </div>
+        </div>
             <div id="mainbox">
-                <NavLink type="Link" exact to="./Mat" >
+                <NavLink type="Link" exact to={`./Mat/${id}`} >
                 <div class ="mybox">
                 <img src={brain} class ="brain" alt="" />
 

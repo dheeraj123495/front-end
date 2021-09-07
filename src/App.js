@@ -1,66 +1,64 @@
-import React from 'react'
-import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import New from './components/New';
-import DSD from './components/DSD';
-import Navbar from './components/Navbar';
-// import Sidebar from './components/Sidebar';
-import CSE from './components/CSE';
-import EC from './components/EC';
-import EE from './components/EE';
-import AI from './components/AI';
-import Mechanical from './components/Mechanical';
-import Civil from './components/Civil';
-import Maths from './components/Maths';
-import Physics from './components/Physics';
-import PP from './components/PP';
-import ARM from './components/ARM';
-import CT from './components/CT';
-import EECA from './components/EECA';
-import FEM from './components/FEM';
-import NMA from './components/NMA';
-import Phy from './components/Phy';
-import Mat from './components/Mat';
-import EPM from './components/EPM';
-
-import Profile from './components/Profile';
+import React from "react";
+import Login from "./Components/Login";
+import Profile from "./Components/Profile";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+import New from "./Components/New";
+import DSD from "./Components/DSD";
+import Navbar from "./Components/Navbar";
+import Sidebar from "./Components/Sidebar";
+import CSE from "./Components/CSE";
+import EC from "./Components/EC";
+import EE from "./Components/EE";
+import AI from "./Components/AI";
+import Mechanical from "./Components/Mechanical";
+import Civil from "./Components/Civil";
+import Maths from "./Components/Maths";
+import Physics from "./Components/Physics";
+import PP from "./Components/PP";
+import ARM from "./Components/ARM";
+import CT from "./Components/CT";
+import EECA from "./Components/EECA";
+import FEM from "./Components/FEM";
+import NMA from "./Components/NMA";
+import Phy from "./Components/Phy";
+import Mat from "./Components/Mat";
+import EPM from "./Components/EPM";
+import Notfound from "./Components/Notfound";
 
 function App() {
+  const Password = localStorage.getItem("password");
   return (
     <div>
-   
-   {/* <Navbar/>
-   <Sidebar/> */}
-      {/* <Route exact path="/" component={New} /> */}
-      <Router>
-      <Navbar/>
-      {/* <Sidebar/> */}
-        <Switch>
-          <Route exact path="/" component={New} />
-          {/* <Route exact path="/Sidebar" component={Sidebar} /> */}
-          <Route exact path="/DSD" component={DSD} />
-          <Route exact path="/CSE" component={CSE} />
-          <Route exact path="/EC" component={EC} />
-          <Route exact path="/EE" component={EE} />
-          <Route exact path="/AI" component={AI} />
-          <Route exact path="/Mechanical" component={Mechanical} />
-          <Route exact path="/Civil" component={Civil} />
-          <Route exact path="/Maths" component={Maths} />
-          <Route exact path="/Physics" component={Physics} />
-          <Route exact path="/PP" component={PP} />
-          <Route exact path="/ARM" component={ARM} />
-          <Route exact path="/CT" component={CT} />
-          <Route exact path="/EECA" component={EECA} />
-          <Route exact path="/FEM" component={FEM} />
-          <Route exact path="/NMA" component={NMA} />
-          <Route exact path="/Phy" component={Phy} />
-          <Route exact path="/Mat" component={Mat} />
-          <Route exact path="/EPM" component={EPM} />
-          <Route exact path="/Profile" component={Profile} />
-        </Switch>
-      </Router>
-      
+      <div>
+        <BrowserRouter>
+          <Switch>
+            <Route exact path="/New/:id" component={New} />
+            <Route exact path="/" component={Login} />
+            <Route exact path="/profile/:id" component={Profile} />
+            <Route exact path="/login" component={Login} />
+            <Route exact path="/:id" component={New} />
+            <Route exact path="/EC/DSD/:id" component={DSD} />
+            <Route exact path="/CSE/:id" component={CSE} />
+            <Route exact path="/EC/:id" component={EC} />
+            <Route exact path="/EEE/:id" component={EE} />
+            <Route exact path="/CSE/AI/:id" component={AI} />
+            <Route exact path="/ME/:id" component={Mechanical} />
+            <Route exact path="/Civil/:id" component={Civil} />
+            <Route exact path="/Maths/:id" component={Maths} />
+            <Route exact path="/Physics/:id" component={Physics} />
+            <Route exact path="/CSE/PP/:id" component={PP} />
+            <Route exact path="/EC/ARM/:id" component={ARM} />
+            <Route exact path="/EC/CT/:id" component={CT} />
+            <Route exact path="/EEE/EECA/:id" component={EECA} />
+            <Route exact path="/Civil/FEM/:id" component={FEM} />
+            <Route exact path="/Civil/NMA/:id" component={NMA} />
+            <Route exact path="/PHYSICS/Phy/:id" component={Phy} />
+            <Route exact path="/MATHS/Mat/:id" component={Mat} />
+            <Route exact path="/Civil/EPM/:id" component={EPM} />
+            <Route component={Notfound} />
+          </Switch>
+        </BrowserRouter>
+      </div>
     </div>
   );
 }

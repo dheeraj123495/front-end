@@ -1,0 +1,3959 @@
+{
+  "users": [
+    {
+      "id": "2KE19CS072",
+      "Name": "PRITHVIRAJ K TAGADINAMANI",
+      "Email": "2ke19cs072@kleit.ac.in",
+      "Branch": "Computer Science",
+      "Password": "putti",
+      "openelectives": "Artificial Intelligence",
+      "openelectiveconfirm": "",
+      "auth": ""
+    },
+    {
+      "id": "2KE19CS027",
+      "Name": "Dheeraj S Pawar",
+      "Email": "2ke19cs027@kleit.ac.in",
+      "Branch": "Computer Science",
+      "Password": "Devil",
+      "openelectives": "Artificial Intelligence",
+      "openelectiveconfirm": "",
+      "auth": ""
+    },
+    {
+      "id": "2KE19CS089",
+      "Name": "SHALININANI JOSHI",
+      "Email": "2ke19cs089@kleit.ac.in",
+      "Branch": "Computer Science",
+      "Password": "SHU",
+      "openelectives": "Finite Element Method",
+      "openelectiveconfirm": "",
+      "auth": ""
+    },
+    {
+      "id": "2KE19CS056",
+      "Name": "NEHA S MATTIKALLI",
+      "Email": "2ke19cs056@kleit.ac.in",
+      "Branch": "Computer Science",
+      "Password": "neha@123",
+      "openelectives": "Communication Theory",
+      "openelectiveconfirm": "Decision pending",
+      "auth": ""
+    },
+    {
+      "id": "2KE17CV037",
+      "Name": "SHIVAKUMAR N HIRUR",
+      "Email": "2ke17cv037@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "z1%ol9!UJbGI",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV001",
+      "Name": "ABHISHEK ISHAPRABHU DESAI",
+      "Email": "2ke18cv001@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "q1#6apkI#JDO",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV002",
+      "Name": "AKBAR THASHILDAR",
+      "Email": "2ke18cv002@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "q?TN8y&tNCc3",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV003",
+      "Name": "AKSHAY HIREMATH",
+      "Email": "2ke18cv003@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "5a#kRX1fjO*L",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV004",
+      "Name": "ARPITA SOMAPPANAVAR",
+      "Email": "2ke18cv004@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "w&qCS89pG!Zb",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV005",
+      "Name": "B AKSHAY DODDAMANI",
+      "Email": "2ke18cv005@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "9nJg@D#xfB4I",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV006",
+      "Name": "BHAGYA BASAVARAJ MANTUR",
+      "Email": "2ke18cv006@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "NsrKxUeQ09%$",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV007",
+      "Name": "D R ANJITHA",
+      "Email": "2ke18cv007@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "WnVyV?7?s9Kw",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV008",
+      "Name": "DHIRAJ GANESH K C",
+      "Email": "2ke18cv008@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "P0&wJug?P4Ht",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV010",
+      "Name": "HARSHAD KALBURGI",
+      "Email": "2ke18cv010@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "6w+%yG7GaKDg",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV011",
+      "Name": "HARSHITA M KALAL",
+      "Email": "2ke18cv011@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "7JWyq$qqJ8!K",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV012",
+      "Name": "JAYAGANESH DAMODAR",
+      "Email": "2ke18cv012@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "spm7?rSKR$C9",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV013",
+      "Name": "KARTIK M GANGANNAVAR",
+      "Email": "2ke18cv013@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "*tpmQMa@C17R",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV016",
+      "Name": "MAHALAXMI S HULLUR",
+      "Email": "2ke18cv016@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "yF!8pgJJi8D!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV017",
+      "Name": "MAHAMMADSOHIL M NADAF",
+      "Email": "2ke18cv017@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "eRj2S@PAwv+5",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV018",
+      "Name": "MEGHANA S PRAMOD",
+      "Email": "2ke18cv018@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "41S&ldYNd%Ai",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV019",
+      "Name": "NIRANJAN K",
+      "Email": "2ke18cv019@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "aduqYM!Z@47G",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV020",
+      "Name": "PAVITRA",
+      "Email": "2ke18cv020@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "x68eITRcFe!$",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV021",
+      "Name": "POOJA R KAREBHIMANNANAVAR",
+      "Email": "2ke18cv021@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "syoM0%@4RrDY",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV022",
+      "Name": "POOJA SHIVALINGAYYA HIREMATH",
+      "Email": "2ke18cv022@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "34#ZMysC+slC",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV023",
+      "Name": "PRASANNA HOSAMANI",
+      "Email": "2ke18cv023@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "vH3B@fuL$f6K",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV024",
+      "Name": "PREETI B DEVARAVAR",
+      "Email": "2ke18cv024@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "O?Fw#aO2Q7bg",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV027",
+      "Name": "RAHUL RAMESHAN",
+      "Email": "2ke18cv027@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "qA8DRr7c@!Om",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV028",
+      "Name": "ROHIT H SHIVALLI",
+      "Email": "2ke18cv028@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "0+m?CbzIYkH0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV029",
+      "Name": "SACHIN GANIGER",
+      "Email": "2ke18cv029@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "Cok77p&CTLp!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV030",
+      "Name": "SAGAR GAONKAR",
+      "Email": "2ke18cv030@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "*5c@SOVjG4hr",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV031",
+      "Name": "SAIF B HULGUR",
+      "Email": "2ke18cv031@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "Dy+HP9e3J#ww",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV033",
+      "Name": "SHARANABASANAGOUDA KASHIGOUDRA",
+      "Email": "2ke18cv033@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "hT4tD6!YQx&l",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV034",
+      "Name": "SHARANABASU CHANNAPPA HUGAR",
+      "Email": "2ke18cv034@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "&N&P9tsuN8Gd",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV035",
+      "Name": "SHIVAJI MAHARAJ",
+      "Email": "2ke18cv035@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "k1+O8VzuIt#F",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV036",
+      "Name": "SIDDHARTH S BYADAGI",
+      "Email": "2ke18cv036@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "JaN!?iv1sYH6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV037",
+      "Name": "SOUNDARYA R GUDARAD",
+      "Email": "2ke18cv037@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "K?5Tc@1qIysB",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV038",
+      "Name": "SUBHASH",
+      "Email": "2ke18cv038@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "i@B#DKv18qjL",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV039",
+      "Name": "SUNIL KUMAR K S",
+      "Email": "2ke18cv039@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "p*rC22IXtB!i",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV040",
+      "Name": "SUSHMITHA S. SHETTY",
+      "Email": "2ke18cv040@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "!bfeJNNkH75!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV041",
+      "Name": "SWATHI S NAIDU",
+      "Email": "2ke18cv041@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "7@FLzCiId?j5",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV042",
+      "Name": "T VENKATESH",
+      "Email": "2ke18cv042@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "$A4eKqrx*DI3",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV043",
+      "Name": "TUSHAR S KAMBALE",
+      "Email": "2ke18cv043@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "cQ4b5v*PSpR?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV045",
+      "Name": "UMMI SALEHA",
+      "Email": "2ke18cv045@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "ca9SsDC1lO%!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV046",
+      "Name": "VIJAYAKUMAR S SORATUR",
+      "Email": "2ke18cv046@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "#fU1tfX$Qd2E",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV047",
+      "Name": "VISHAL",
+      "Email": "2ke18cv047@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "a4?Cx2*RcbGB",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV048",
+      "Name": "VISHWANATH",
+      "Email": "2ke18cv048@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "qci@97UX!uMT",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV049",
+      "Name": "JAYASHREE H METI",
+      "Email": "2ke18cv049@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "PTR8d6o%f*fR",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CV051",
+      "Name": "JOEL D JAMKHANDI",
+      "Email": "2ke18cv051@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "elaJ7CO@*D1q",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV400",
+      "Name": "DHANRAJ ATHANI",
+      "Email": "2ke19cv400@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "?$n71eIExIQp",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV401",
+      "Name": "FAIROZ YALIGAR",
+      "Email": "2ke19cv401@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "sp9gVP%+o1KZ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV402",
+      "Name": "FURQAN AHMED S USTAD",
+      "Email": "2ke19cv402@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "y8#3Q&xnNgLH",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV403",
+      "Name": "HARESH T S",
+      "Email": "2ke19cv403@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "zTy74kQ!f&XB",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV404",
+      "Name": "KAVYA SURESH KAMBLE",
+      "Email": "2ke19cv404@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "MfzNbD$W@77h",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV405",
+      "Name": "MAHESH B NOOLVI",
+      "Email": "2ke19cv405@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "XA*kTk6j1Oe%",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV406",
+      "Name": "NIKHIL NAIDU",
+      "Email": "2ke19cv406@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "$&QP41jvwClK",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV408",
+      "Name": "RAJAT R BABLESHWAR",
+      "Email": "2ke19cv408@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "*V9d9tgsRY$A",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV409",
+      "Name": "SADIQ DHARWAD",
+      "Email": "2ke19cv409@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "hY5QpaS6Sg#$",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV412",
+      "Name": "SHIVAPRASAD N SHETTI",
+      "Email": "2ke19cv412@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "$kk4GaOS*6wU",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV413",
+      "Name": "SHREYAS P CHANNAPUR",
+      "Email": "2ke19cv413@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "J$Q1%yqQp5Ny",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV414",
+      "Name": "SHYAM V KATHARE",
+      "Email": "2ke19cv414@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "eGRu#j0fW6G*",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV417",
+      "Name": "TUSHANT UPASI",
+      "Email": "2ke19cv417@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "84H!buOA*wHk",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV418",
+      "Name": "VIJAYMAHANTESH R SHETTAR",
+      "Email": "2ke19cv418@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "$gFrB&c6W1Fy",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV419",
+      "Name": "VINAYAKGOUDA PATIL",
+      "Email": "2ke19cv419@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "$Xs5t&LaUVb0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CV420",
+      "Name": "VISHAL GOUDAR",
+      "Email": "2ke19cv420@kleit.ac.in",
+      "Branch": "Civil",
+      "Password": "oS9*d#hZUR9x",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS001",
+      "Name": "ABDULKHADAR MEERANAVAR",
+      "Email": "2ke18cs001@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "x29PG%oAtQ%h",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS002",
+      "Name": "ADESH R MANTUR",
+      "Email": "2ke18cs002@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "fro@&lD70VUN",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS003",
+      "Name": "ADITYA A PATIL",
+      "Email": "2ke18cs003@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "8u2MfC&@ZdsD",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS004",
+      "Name": "AFRIN IMTIAZ BAIG",
+      "Email": "2ke18cs004@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "oKU!s0+Y2dpJ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS005",
+      "Name": "AMIT UMAMAHESHWAR HEGDE",
+      "Email": "2ke18cs005@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "+5AT4R!nzkdN",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS006",
+      "Name": "ANCHAL S POWAR",
+      "Email": "2ke18cs006@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "S4dkFzs+4V!C",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS007",
+      "Name": "ANKITA BANGALORE",
+      "Email": "2ke18cs007@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "u*z1q7?JALfW",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS008",
+      "Name": "ANUP V KABBERALLI",
+      "Email": "2ke18cs008@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "wJ&pe0JIV1v@",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS009",
+      "Name": "AWATE KEERTHI",
+      "Email": "2ke18cs009@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "JjJ%&XBaau12",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS010",
+      "Name": "AYUSH SARAF",
+      "Email": "2ke18cs010@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "YgTVm#vl*Y99",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS011",
+      "Name": "B N SUMANT",
+      "Email": "2ke18cs011@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "9esjU*YH1@vK",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS012",
+      "Name": "BHARATA MANJUNATHA POOJARI",
+      "Email": "2ke18cs012@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "#Hr2Jw5fIx#J",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS013",
+      "Name": "CHETANA R PATEL",
+      "Email": "2ke18cs013@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "0ZSP+vc9T*ub",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS014",
+      "Name": "CHINMAYI HIREMATH",
+      "Email": "2ke18cs014@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "LKy@F@F1wdw5",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS015",
+      "Name": "D H VAIBHAV KASHYAP",
+      "Email": "2ke18cs015@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "2D$akh4xBS$T",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS016",
+      "Name": "DEBORAH GANTA",
+      "Email": "2ke18cs016@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "5+o4bN#NnrND",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS017",
+      "Name": "FARHAT R MAKANDAR",
+      "Email": "2ke18cs017@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "TOH@*7zb0Zoh",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS018",
+      "Name": "GIRISHKUMAR SAVADATTI",
+      "Email": "2ke18cs018@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "nk16WRnb*Y$Q",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS019",
+      "Name": "LAKSHMI NAGANUR",
+      "Email": "2ke18cs019@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "31x$mAGrHk!J",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS021",
+      "Name": "MANOJ DATTATRAYA BHAT",
+      "Email": "2ke18cs021@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "Nc*XJs6+3miG",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS022",
+      "Name": "MAYUR S HEGDE",
+      "Email": "2ke18cs022@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "9PqflF$cV4G!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS023",
+      "Name": "NAEEMAH AKHTAR M KHATIB",
+      "Email": "2ke18cs023@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "k?EX46oWshM!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS024",
+      "Name": "NIKITA VINODKUMAR AMBALDHAGE",
+      "Email": "2ke18cs024@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "wl6CB!$Q6yVu",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS025",
+      "Name": "POOJA B KITTUR",
+      "Email": "2ke18cs025@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "KL0?Vuolm?9L",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS026",
+      "Name": "POORVA SHANTAGOUDA MUKUND",
+      "Email": "2ke18cs026@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "tTB0GhE@v4$t",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS029",
+      "Name": "PRASAN KULKARNI",
+      "Email": "2ke18cs029@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "tilJ1sQ%2!GU",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS030",
+      "Name": "PRIYANKA B",
+      "Email": "2ke18cs030@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "dv#Py*n17MWN",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS031",
+      "Name": "PRUTHVIRAJ",
+      "Email": "2ke18cs031@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "V&7g9cEmw+SI",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS032",
+      "Name": "RASHMI RAMAKANTHA PAI",
+      "Email": "2ke18cs032@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "KA1xi*S#Hfi7",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS033",
+      "Name": "ROHIT GURU M",
+      "Email": "2ke18cs033@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "zv4@OLCw+0Wb",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS034",
+      "Name": "SACHIN C KADARMANDALAGI",
+      "Email": "2ke18cs034@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "v7!LgN%kUoQ0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS035",
+      "Name": "SAHANA M NAVALAGUNDMATH",
+      "Email": "2ke18cs035@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "78NF*OkqzPa?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS036",
+      "Name": "SAHANA S HOSMANI",
+      "Email": "2ke18cs036@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "jI1*1xrBTw&Q",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS038",
+      "Name": "SANJANA HIREMATH",
+      "Email": "2ke18cs038@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "5?FjOgkI9cV%",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS039",
+      "Name": "SANJANA S PATTAN",
+      "Email": "2ke18cs039@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "?RIK!chqP0x9",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS040",
+      "Name": "SHASHANK S NULIN",
+      "Email": "2ke18cs040@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "+?CXct5LdN5q",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS041",
+      "Name": "SHIVANI AKASH",
+      "Email": "2ke18cs041@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "V6sT&8UesZs%",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS042",
+      "Name": "SHREYAS C KULKARANI",
+      "Email": "2ke18cs042@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "EMjjW!J72mq!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS043",
+      "Name": "SPOORTI SHEKHARGOL",
+      "Email": "2ke18cs043@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "O6aCt#ayU*Z8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS044",
+      "Name": "SRISHTI A BULBULE",
+      "Email": "2ke18cs044@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "G7f*+b7bImRU",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS045",
+      "Name": "SUCHIT B IJANTAKAR",
+      "Email": "2ke18cs045@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "NFrKQx&5s6f*",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS046",
+      "Name": "SUMANTH S YATTINAHALLI",
+      "Email": "2ke18cs046@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "7r!QvD&BP0wi",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS047",
+      "Name": "SUMITRA",
+      "Email": "2ke18cs047@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "DYpL35?dQ&wd",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS048",
+      "Name": "SUMMAIYA DHARWAD",
+      "Email": "2ke18cs048@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "@jdQ4fLPb4&Y",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS049",
+      "Name": "SUNIDHI",
+      "Email": "2ke18cs049@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "#o0qC?CXn5vE",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS051",
+      "Name": "TUSHAR P WANDKAR",
+      "Email": "2ke18cs051@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "!vq6DpIgNI9$",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS052",
+      "Name": "VANISHRI G BANKAPUR",
+      "Email": "2ke18cs052@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "sPB4*WN%vz0x",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS053",
+      "Name": "VENKATESH MAMADAPUR",
+      "Email": "2ke18cs053@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "C0A#n4hc#QrS",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS054",
+      "Name": "VIBHAV NESARIKAR",
+      "Email": "2ke18cs054@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "BvStwY7I9!%x",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS055",
+      "Name": "VINAY S SHIVAPPAYYANAMATH",
+      "Email": "2ke18cs055@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "5EEGYy&$2qln",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS056",
+      "Name": "VISHAL MAHESH KALIWAL",
+      "Email": "2ke18cs056@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "2ZJEwlKch2$&",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS057",
+      "Name": "VRUSHABH I TURAMARI",
+      "Email": "2ke18cs057@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "!4$vZD0jkZcV",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS058",
+      "Name": "MAHENDRA N JADE",
+      "Email": "2ke18cs058@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "Jb##l5Rh0ZTs",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18CS059",
+      "Name": "PRADEEKSHA SHETTY",
+      "Email": "2ke18cs059@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "*Vq4c5wW@LpB",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CS400",
+      "Name": "ASHWINI SHIVANAND NAYAK",
+      "Email": "2ke19cs400@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "Zk@UiC8+mrS6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CS401",
+      "Name": "GAYATRI PAWAR",
+      "Email": "2ke19cs401@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "p0#CP!V9Qaco",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CS402",
+      "Name": "KAVYA K MATHAPATI",
+      "Email": "2ke19cs402@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "DVi5o!SN7g&k",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CS403",
+      "Name": "LATA MADAR",
+      "Email": "2ke19cs403@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "?Sdb9k%GyYK8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CS404",
+      "Name": "SAHANA KERUR",
+      "Email": "2ke19cs404@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "!6xCshS?MFq8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CS405",
+      "Name": "SASANAMARI ROHIT SHIVAKUMAR",
+      "Email": "2ke19cs405@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "qC!i8P2GDwj$",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CS406",
+      "Name": "SHIFA ANJUM MUNEER",
+      "Email": "2ke19cs406@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "s4vI3u?#wLOA",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CS407",
+      "Name": "SNEHA MEHARWADE",
+      "Email": "2ke19cs407@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "63KAyQ?om%Al",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19CS408",
+      "Name": "SAISHWARI WALE",
+      "Email": "2ke19cs408@kleit.ac.in",
+      "Branch": "ComputerScience",
+      "Password": "cfR1Q+c+wJF0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE16EC103",
+      "Name": "VIDYA WALIKAR",
+      "Email": "2ke16ec103@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "qIN9dG+2ue%E",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC003",
+      "Name": "AFROJA NAGANOOR",
+      "Email": "2ke18ec003@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "zgNI*Dw1?pP0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC004",
+      "Name": "AISHWARYA GURJAR",
+      "Email": "2ke18ec004@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "Ty1uQj?4GSx$",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC005",
+      "Name": "AISHWARYA K NAYAK",
+      "Email": "2ke18ec005@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "EZ#jid9*DFs6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC006",
+      "Name": "AKASH B TERDAL",
+      "Email": "2ke18ec006@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "pQJN14n$se$I",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC007",
+      "Name": "ASHISH ANIL DHAGE",
+      "Email": "2ke18ec007@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "r%IDa&CvpV19",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC008",
+      "Name": "ASHISH IRAPPA GANIGER",
+      "Email": "2ke18ec008@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "01zN!MQaDl&i",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC009",
+      "Name": "ASHWINI J CHOUGULE",
+      "Email": "2ke18ec009@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "lQYfrO2&Xi@4",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC010",
+      "Name": "AZIB ALI ASIFALI HAYAT KHAN",
+      "Email": "2ke18ec010@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "oGkm7oJBF?%6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC011",
+      "Name": "B SRIKANT P MATHAD",
+      "Email": "2ke18ec011@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "sOW8hD&@l9Zk",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC012",
+      "Name": "BASAVARAJ NEELAGUND",
+      "Email": "2ke18ec012@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "gp&XRg7O7z&X",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC015",
+      "Name": "BHOOMIKA J B",
+      "Email": "2ke18ec015@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "4t&mYlUIzU$5",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC016",
+      "Name": "CHAITRA G SAJJAN",
+      "Email": "2ke18ec016@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "%4#ARxq4DbHo",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC019",
+      "Name": "CHETAN TANAJI JADHAV",
+      "Email": "2ke18ec019@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "WMV4rPcq8$+p",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC020",
+      "Name": "CHINMAY S K",
+      "Email": "2ke18ec020@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "Cy%h@dHV0aY9",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC021",
+      "Name": "DEBORAH SPANDANA ITTE",
+      "Email": "2ke18ec021@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "@Ucilw%6NPK8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC022",
+      "Name": "DIVYA N IRAPANNAVAR",
+      "Email": "2ke18ec022@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "33lCFAifuY#?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC023",
+      "Name": "DIVYA SHIVAYOGI SANGOLI",
+      "Email": "2ke18ec023@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "iQ6$pIi4*HCp",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC024",
+      "Name": "DORCAS GANTA",
+      "Email": "2ke18ec024@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "rUgkJ$1sM!A0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC025",
+      "Name": "DOREEN N SISANALLI",
+      "Email": "2ke18ec025@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "5hmPyhAQZ%@8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC026",
+      "Name": "GOURAMMA KARKI",
+      "Email": "2ke18ec026@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "oF@C1kzv@QL1",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC027",
+      "Name": "GOVINDARAJ",
+      "Email": "2ke18ec027@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "cAoAj!7pCU3%",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC028",
+      "Name": "HARSHAVARDHANA MANNUR",
+      "Email": "2ke18ec028@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "Ur$P%9q2zTSt",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC029",
+      "Name": "HARSHITH M SABOJI",
+      "Email": "2ke18ec029@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "NsC$mn?8Zt4Z",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC030",
+      "Name": "HEMALATA MAGANUR",
+      "Email": "2ke18ec030@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "92nrlLP$IzL@",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC031",
+      "Name": "INDRABAI NAGAPPA KALLIMANI",
+      "Email": "2ke18ec031@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "n6t*E0wVd&TY",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC032",
+      "Name": "IRENE CARMEL ALEX",
+      "Email": "2ke18ec032@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "1!YKmnBrVo%9",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC033",
+      "Name": "JESSICA MOBBU",
+      "Email": "2ke18ec033@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "9E+#6pONmgzX",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC034",
+      "Name": "K PRIYANKA",
+      "Email": "2ke18ec034@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "7Y@dRWuGf7q@",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC035",
+      "Name": "KAJAL M PATEL",
+      "Email": "2ke18ec035@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "*Cik7@Jtf4SI",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC036",
+      "Name": "KARTIK M TIMMANNAVAR",
+      "Email": "2ke18ec036@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "UhIzj+QTe10#",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC037",
+      "Name": "KEERTI TALAWAR",
+      "Email": "2ke18ec037@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "!!Om1wRFRnx3",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC038",
+      "Name": "KEREN BRIDGATE SAPPARAPU",
+      "Email": "2ke18ec038@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "R5?Jz1OmQpb!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC039",
+      "Name": "KIRAN M GANACHARI",
+      "Email": "2ke18ec039@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "kY4k8?nQFj#X",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC040",
+      "Name": "KRUTIKA KASHAPPAGOUDRA",
+      "Email": "2ke18ec040@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "p*%UyW8y1iUZ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC041",
+      "Name": "M SUSHMITHA",
+      "Email": "2ke18ec041@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "VxEy2W0%*dRt",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC042",
+      "Name": "MADHUMATI RAMACHANDRA RAWOOT",
+      "Email": "2ke18ec042@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "1&D@wYriv1EL",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC043",
+      "Name": "MANGALA R BETADUR",
+      "Email": "2ke18ec043@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "FnePR98lmL+*",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC045",
+      "Name": "MEGHA MARUTI ZENDE",
+      "Email": "2ke18ec045@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "J9Iza?2d?FVt",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC046",
+      "Name": "MEGHANA A PHIRANGI",
+      "Email": "2ke18ec046@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "8vIqmB&V*6Lb",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC047",
+      "Name": "NANDITA D NILANGE",
+      "Email": "2ke18ec047@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "fPYUG*29l+gm",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC049",
+      "Name": "NIDHI",
+      "Email": "2ke18ec049@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "9o5ISrx%W*nJ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC051",
+      "Name": "NIMISHA JOHN ARAWATAGI",
+      "Email": "2ke18ec051@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "&cdYvL1VW+1l",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC052",
+      "Name": "NISHANT N UDOSHI",
+      "Email": "2ke18ec052@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "LW@m4jaE%7vF",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC053",
+      "Name": "NIVEDITHA B R",
+      "Email": "2ke18ec053@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "fP4QVcO8dm&%",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC054",
+      "Name": "PAVANKUMAR H S",
+      "Email": "2ke18ec054@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "s@zbL6kN&8KP",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC055",
+      "Name": "PRANITA P NAIK",
+      "Email": "2ke18ec055@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "B3a@dJJl0v?P",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC056",
+      "Name": "PRANJAL KARPUR",
+      "Email": "2ke18ec056@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "+KMxgygZ&1T2",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC058",
+      "Name": "PRIYANKA G KERUDI",
+      "Email": "2ke18ec058@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "rIyw64VZ?W!q",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC059",
+      "Name": "RAJAT NARAYAN MOGER",
+      "Email": "2ke18ec059@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "NI%Q*yq1gJ0x",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC060",
+      "Name": "RAKSHA RAVI HULAGI",
+      "Email": "2ke18ec060@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "R0&leq0A@IdW",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC061",
+      "Name": "REKHA K PATRUT",
+      "Email": "2ke18ec061@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "j&oFmZ&X10Mw",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC062",
+      "Name": "RENUKA S REVADIHAL",
+      "Email": "2ke18ec062@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "cl+w2?JBZiE9",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC063",
+      "Name": "RITIKA HURAKADLI",
+      "Email": "2ke18ec063@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "KUawV+xbW*16",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC064",
+      "Name": "ROHAN DESAI",
+      "Email": "2ke18ec064@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "IkGsg5D8&Xl&",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC066",
+      "Name": "ROHINI SAVADATTI",
+      "Email": "2ke18ec066@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "r$?uElKD13Mg",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC067",
+      "Name": "RUTUJA R PATIL",
+      "Email": "2ke18ec067@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "*u$0eGCEb2Xl",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC068",
+      "Name": "SACHIN ARKASALI",
+      "Email": "2ke18ec068@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "!lD%KWl98jLq",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC069",
+      "Name": "SAHANA MULLA",
+      "Email": "2ke18ec069@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "?R&kt3JYn3Yw",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC070",
+      "Name": "SAMARTH KOKKALAKI",
+      "Email": "2ke18ec070@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "V#ySVC2+xm1n",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC071",
+      "Name": "SANGAMANATH S MALAJI",
+      "Email": "2ke18ec071@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "4J#0hwCX!kQz",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC072",
+      "Name": "SANJAY KAVALLI",
+      "Email": "2ke18ec072@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "hiFS&b5Dr@E8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC073",
+      "Name": "SARASWATI KOLKAR",
+      "Email": "2ke18ec073@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "W76oLZ*I$tkv",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC074",
+      "Name": "SHAFA BHANDARI",
+      "Email": "2ke18ec074@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "5PQrGsT$6$oy",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC075",
+      "Name": "SHAMA HEGDE",
+      "Email": "2ke18ec075@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "PbYeyg#FM72+",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC076",
+      "Name": "SHASHANK JANAGERI",
+      "Email": "2ke18ec076@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "&u$Jz0ywVG8K",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC077",
+      "Name": "SHIBUNA ASHRAF CHEDAKAL",
+      "Email": "2ke18ec077@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "K#yNYio$X42q",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC078",
+      "Name": "SHIVANI N SHATOJI",
+      "Email": "2ke18ec078@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "mHS@jm*WJm06",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC079",
+      "Name": "SHIVANI R ANVEKAR",
+      "Email": "2ke18ec079@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "bu+F6z8$YDSd",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC080",
+      "Name": "SHREYA A GHARGE",
+      "Email": "2ke18ec080@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "$HzxBN5re5%Z",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC081",
+      "Name": "SHREYA SHRIKANTH KAMBLI",
+      "Email": "2ke18ec081@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "$Xz9G&aCIeu1",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC082",
+      "Name": "SHRUTI PARTHIBAN",
+      "Email": "2ke18ec082@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "G+LC$Et7x1is",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC083",
+      "Name": "SHUBHAM PAWAR",
+      "Email": "2ke18ec083@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "Uel2Q*1YfgF#",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC084",
+      "Name": "SIDAGOUDA SANTI",
+      "Email": "2ke18ec084@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "5l$cfVRG4%Yo",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC086",
+      "Name": "SOORAJ SUDHAKAR SHET",
+      "Email": "2ke18ec086@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "0+gp@5AwrMND",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC087",
+      "Name": "SOUJANYA PATTANSHETTI",
+      "Email": "2ke18ec087@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "X3br+5so&DXR",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC088",
+      "Name": "SOUMYA R NAIK",
+      "Email": "2ke18ec088@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "VPlPEgl1x4$#",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC089",
+      "Name": "SUMA C SURANAGI",
+      "Email": "2ke18ec089@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "Aj&I8Hw9wqG$",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC090",
+      "Name": "SUSHMA MATH",
+      "Email": "2ke18ec090@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "$WTd%rj5Uk7P",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC091",
+      "Name": "SWATI GANGADHAR BUDAPPANAVAR",
+      "Email": "2ke18ec091@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "5Ps!V+1vGQfh",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC092",
+      "Name": "TEJASWINI PAI",
+      "Email": "2ke18ec092@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "0u4jkP+Cs?SB",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC093",
+      "Name": "TRUPTI DUBE",
+      "Email": "2ke18ec093@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "PvY5B!s@q1Ee",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC094",
+      "Name": "TRUPTI SHEELAVANT",
+      "Email": "2ke18ec094@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "!2rJDyzQ&u9C",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC095",
+      "Name": "V KEERTHI",
+      "Email": "2ke18ec095@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "5z!BG8J%otsQ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC096",
+      "Name": "VAISHNAVI B PATIL",
+      "Email": "2ke18ec096@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "bx00BK?g!uHV",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC097",
+      "Name": "VARUN TAHASHILDAR",
+      "Email": "2ke18ec097@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "O1%3OSqym@Cc",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC099",
+      "Name": "VINAY KUMAR T M",
+      "Email": "2ke18ec099@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "#%O7Nm0djAGy",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC100",
+      "Name": "VISHWANATH A JATTI",
+      "Email": "2ke18ec100@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "jeY8p6zA!#UV",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC101",
+      "Name": "YASHODHAR A KAPADIA",
+      "Email": "2ke18ec101@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "kzN2+yCy!2PA",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC102",
+      "Name": "SUSHMITA S KOTIKAL",
+      "Email": "2ke18ec102@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "nAM%yJxOj9&9",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EC103",
+      "Name": "RAJESHWARI",
+      "Email": "2ke18ec103@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "O!Oj4?tu9CIx",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC400",
+      "Name": "ABHILASHA TOTAPPA DHANAVE",
+      "Email": "2ke19ec400@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "EB00DoJnn+#z",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC401",
+      "Name": "ASMA BEGUM",
+      "Email": "2ke19ec401@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "1gYB#0um!pHV",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC402",
+      "Name": "GANESH NIGAPPA GOUDA",
+      "Email": "2ke19ec402@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "jXscpF6D!F@6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC403",
+      "Name": "GURULINGAYYA U NARGUNDMATH",
+      "Email": "2ke19ec403@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "&%1OI2RIlvcg",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC404",
+      "Name": "JAVERIA A PANTOJI",
+      "Email": "2ke19ec404@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "7ACfaeX+oL#3",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC405",
+      "Name": "JYOTI P CHAWHAN",
+      "Email": "2ke19ec405@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "2Z!5EdUtVu+g",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC406",
+      "Name": "KAVYA GANGAPPA BADIGER",
+      "Email": "2ke19ec406@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "n0R7vQ#F$toP",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC407",
+      "Name": "MEGHA AVINASH KHATAWKAR",
+      "Email": "2ke19ec407@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "?Za%xf5Fu8NX",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC408",
+      "Name": "NAGAVENI MURIGEPPA PALKI",
+      "Email": "2ke19ec408@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "3Ja&L#2PgaoX",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC409",
+      "Name": "NAVEEN NAGARAJ KANAVALLI",
+      "Email": "2ke19ec409@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "S5%s9CHRup!a",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC410",
+      "Name": "POOJA RANADEVI",
+      "Email": "2ke19ec410@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "36c#jQCsuVL+",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC412",
+      "Name": "ROHIT R KAMALAPUR",
+      "Email": "2ke19ec412@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "Et5#d2rBFq!U",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC413",
+      "Name": "SAMEER KHAJI",
+      "Email": "2ke19ec413@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "x3dNM+q6Qq!B",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC414",
+      "Name": "SAMREENKOUSAR M NAREGAL",
+      "Email": "2ke19ec414@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "zH@aR75pl$JD",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC415",
+      "Name": "SANKETH",
+      "Email": "2ke19ec415@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "BekBFl4E0*k%",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC416",
+      "Name": "SANTOSH B",
+      "Email": "2ke19ec416@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "Yz!9hlQjD$I6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC417",
+      "Name": "SHABANABI R DHAVALESHWAR",
+      "Email": "2ke19ec417@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "ZfoR54gx$F*D",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC418",
+      "Name": "SHARAN KHADED",
+      "Email": "2ke19ec418@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "RPD6zFlg4p?#",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC419",
+      "Name": "SHAYISTA MULLA",
+      "Email": "2ke19ec419@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "P$$q7Ad0eCQz",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC420",
+      "Name": "SOUMYA HIREKUMBI",
+      "Email": "2ke19ec420@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "D4gX?N?pIv9z",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC421",
+      "Name": "SUMAN BASAVESH HIREMATH",
+      "Email": "2ke19ec421@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "9eT@wuB0vR&A",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC422",
+      "Name": "SUMMAIYA KITTUR",
+      "Email": "2ke19ec422@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "M+LStlgH3l1!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC423",
+      "Name": "TEJASWINI K DHADEKAR",
+      "Email": "2ke19ec423@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "bwA2PW+3u%Kc",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC424",
+      "Name": "THIRUGNANASEVUGARAJA",
+      "Email": "2ke19ec424@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "GRR5p$6k@Kib",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EC425",
+      "Name": "VINIT HANCHATE",
+      "Email": "2ke19ec425@kleit.ac.in",
+      "Branch": "ElectronicsAndCommunication",
+      "Password": "3wfBxU8M*yE!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE001",
+      "Name": "AISHWARYA S AOURSANG",
+      "Email": "2ke18ee001@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "esP*dg*15GGD",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE002",
+      "Name": "AKHILESHWARI GALAGALI",
+      "Email": "2ke18ee002@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "CP+?AD0oxrr9",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE003",
+      "Name": "ANJALI JOSHI",
+      "Email": "2ke18ee003@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "LD0cqniF2D!%",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE004",
+      "Name": "ANJALI SHAJU",
+      "Email": "2ke18ee004@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "Oo7wS2s!@KJj",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE005",
+      "Name": "ANUSHA C G",
+      "Email": "2ke18ee005@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "p95O&PnWg#Tq",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE006",
+      "Name": "APEKSHA PATIL",
+      "Email": "2ke18ee006@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "rNE1&Ws8Lbq&",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE007",
+      "Name": "ARJUN T W",
+      "Email": "2ke18ee007@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "%Lx5j#KX6Oyh",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE008",
+      "Name": "ASHA MANJUNATHA MALLASAMUDRA",
+      "Email": "2ke18ee008@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "WhoE3e$nFA5@",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE009",
+      "Name": "BHIMAMBIKA SIDDAPPA KITTALI",
+      "Email": "2ke18ee009@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "9P@9Pj!yDErs",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE010",
+      "Name": "DARLA JAYA",
+      "Email": "2ke18ee010@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "Sv6*nKUhI1s!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE011",
+      "Name": "DURGA PRASAD B",
+      "Email": "2ke18ee011@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "2*W*nHoYz7Rt",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE013",
+      "Name": "HRUTIK R SUNKAD",
+      "Email": "2ke18ee013@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "dEMS20bg@$iB",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE014",
+      "Name": "JYOTI SANNATANGI",
+      "Email": "2ke18ee014@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "$vJB6!iX7hgX",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE015",
+      "Name": "KIRAN V AKKI",
+      "Email": "2ke18ee015@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "&eak2IFQl0U*",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE016",
+      "Name": "L M SUMAN",
+      "Email": "2ke18ee016@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "&sZ#OB3sC3iz",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE017",
+      "Name": "LALITH GUGGILLA",
+      "Email": "2ke18ee017@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "V7Pb*inRwZ9+",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE018",
+      "Name": "MOHAMMED ALI",
+      "Email": "2ke18ee018@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "w5s4*G#PjiIQ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE019",
+      "Name": "N VASUDEVA",
+      "Email": "2ke18ee019@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "Q7$c2!kSFjzG",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE020",
+      "Name": "NAGABHUSHAN D JANNU",
+      "Email": "2ke18ee020@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "n$Kqi19uDYA*",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE021",
+      "Name": "NAGAPOOJA V BAGALKOTI",
+      "Email": "2ke18ee021@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "hX&z&PdD50hN",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE022",
+      "Name": "PAVITRA",
+      "Email": "2ke18ee022@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "zGZlB8j5?G&g",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE023",
+      "Name": "PAVITRA DEVA GOUDA",
+      "Email": "2ke18ee023@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "2TkA?tmlJW5&",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE024",
+      "Name": "PRAJWAL R ARKACHARI",
+      "Email": "2ke18ee024@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "y&E3O1LwZf%d",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE025",
+      "Name": "PRAMODINI B BIRADAR",
+      "Email": "2ke18ee025@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "?#4gP3GoucBW",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE026",
+      "Name": "RUKSAR KHANUM M JAHAGIRDAR",
+      "Email": "2ke18ee026@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "OnGq68x!O%wT",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE027",
+      "Name": "SABIR MULLA",
+      "Email": "2ke18ee027@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "b1&UWVlW$ia3",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE028",
+      "Name": "SAHANA BIRADAR",
+      "Email": "2ke18ee028@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "yS@RikS60zF!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE029",
+      "Name": "SAHANA NAGARAJ MADIWALAR",
+      "Email": "2ke18ee029@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "E39*+GJwoiXl",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE030",
+      "Name": "SANATH S B",
+      "Email": "2ke18ee030@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "MPHn2vf#8d!C",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE031",
+      "Name": "SANJANA S KALMATH",
+      "Email": "2ke18ee031@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "F?5bGc#mTSw6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE032",
+      "Name": "SEEDARLA JOEL",
+      "Email": "2ke18ee032@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "ya5+ZH$npN0R",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE033",
+      "Name": "SHASHANK R GAMPALA",
+      "Email": "2ke18ee033@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "Gk$l$4ZVtf7Y",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE034",
+      "Name": "SHEETAL KUMATAGI",
+      "Email": "2ke18ee034@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "bo@pAPkX&1L5",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE035",
+      "Name": "SHREYA K MYSORE",
+      "Email": "2ke18ee035@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "8$OVlm4CDh+v",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE036",
+      "Name": "SHRIDEVI S PUJAR",
+      "Email": "2ke18ee036@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "oWqY0r#C%9xQ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE037",
+      "Name": "SUPREETHA ALLIYAL",
+      "Email": "2ke18ee037@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "u&YsjE&4V8cX",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE038",
+      "Name": "SWETA",
+      "Email": "2ke18ee038@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "H&c9mXa*0dKM",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE039",
+      "Name": "TEJASWINI SHRIKANT PUROHIT",
+      "Email": "2ke18ee039@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "e4Qe5Tt@qK%P",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE041",
+      "Name": "TRUPTI CHINIWAL",
+      "Email": "2ke18ee041@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "vH9JrT$fMl0%",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE043",
+      "Name": "VAIBHAVI R KULKARNI",
+      "Email": "2ke18ee043@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "NhzI3g?r+1QH",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE044",
+      "Name": "VINITA S CHANNI",
+      "Email": "2ke18ee044@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "Ka3T$iNeO?n0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE045",
+      "Name": "YASHODHARE S MALLIGWAD",
+      "Email": "2ke18ee045@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "gKqB$Vh91&Vi",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18EE046",
+      "Name": "ZAVERIAKHANAM AIRANI",
+      "Email": "2ke18ee046@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "F!bwwg+RI0A1",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE400",
+      "Name": "ABHISHEK MUNDARAGI",
+      "Email": "2ke19ee400@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "h?Z8oSl6e@PW",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE401",
+      "Name": "ABHISHEK R CHABBI",
+      "Email": "2ke19ee401@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "dRo22xEH$Yt#",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE402",
+      "Name": "AFROZ M BELLARY",
+      "Email": "2ke19ee402@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "G+78qSr@OeqZ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE403",
+      "Name": "BINDU M J",
+      "Email": "2ke19ee403@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "%k0%cqAKB7Qo",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE404",
+      "Name": "DEEPA MOHAN SANGATI",
+      "Email": "2ke19ee404@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "sJY8B$r6e$Cv",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE405",
+      "Name": "MAHALING BUSANNAVAR",
+      "Email": "2ke19ee405@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "hUNr5zXy3&G?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE406",
+      "Name": "MARUTHI BANNIKALLU",
+      "Email": "2ke19ee406@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "a?OjHwCpE4$2",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE407",
+      "Name": "MEGHA HARAKUNI",
+      "Email": "2ke19ee407@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "x5p*vd@OYFC0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE408",
+      "Name": "MUKESH M ANGADI",
+      "Email": "2ke19ee408@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "o?d@OoYvVT87",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE409",
+      "Name": "NACHIKET M SOOVIMATH",
+      "Email": "2ke19ee409@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "RJd&9P9mOhu?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE410",
+      "Name": "NIRMALKUMAR ADAPPANAVAR",
+      "Email": "2ke19ee410@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "ens#*LI5NRj1",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE411",
+      "Name": "PRAGATI S HALAKURKI",
+      "Email": "2ke19ee411@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "qcUhUX93%U!f",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE412",
+      "Name": "PRAVEENKUMAR",
+      "Email": "2ke19ee412@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "KNO7p1zg$e@J",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE413",
+      "Name": "SANIYA BANU KITTUR",
+      "Email": "2ke19ee413@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "lnUG!mA3Np!8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE414",
+      "Name": "SANJAY GOUDANNAVAR",
+      "Email": "2ke19ee414@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "a9kRRNnF9#@r",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE415",
+      "Name": "SNEHA C FIRANGI",
+      "Email": "2ke19ee415@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "Ngvt6+hYKF1?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE416",
+      "Name": "SUKHAVINDERSINGH S THAKUR",
+      "Email": "2ke19ee416@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "pfd9?p!MEM7H",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE417",
+      "Name": "SUSHMITA BHOSALE",
+      "Email": "2ke19ee417@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "$rmYFRJ12z+q",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19EE418",
+      "Name": "VINAYAK SAVATIKAI",
+      "Email": "2ke19ee418@kleit.ac.in",
+      "Branch": "ElectricalAndElectronics",
+      "Password": "n0k$W2FNoY*y",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE17ME020",
+      "Name": "GANESH VENKATESH KARNOOL",
+      "Email": "2ke17me020@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "f11?VxCfW@Ss",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME001",
+      "Name": "ABDULLAH DAFEDAR",
+      "Email": "2ke18me001@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "xMRfXC1@y&g1",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME002",
+      "Name": "ABHISHEK HARIHAR",
+      "Email": "2ke18me002@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "qC&mZ@u1wY4F",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME003",
+      "Name": "ABHISHEK PATIL",
+      "Email": "2ke18me003@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "HfM9X#yoV6+g",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME004",
+      "Name": "ABHISHEK S MARIBASAYYANAVAR",
+      "Email": "2ke18me004@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "@*9RBrNkfJm7",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME005",
+      "Name": "ADARSH ANAND HARIBHATT",
+      "Email": "2ke18me005@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "hJO7Lf6k&@tW",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME006",
+      "Name": "ADARSH S TELGAR",
+      "Email": "2ke18me006@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "!8TP4yJ?wYyl",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME008",
+      "Name": "AMOGH S KULKARNI",
+      "Email": "2ke18me008@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "73?WRhtXam#T",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME009",
+      "Name": "AMRUT B YENDIGERI",
+      "Email": "2ke18me009@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "pbG!8ps!RJF6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME010",
+      "Name": "ANAND BANDI",
+      "Email": "2ke18me010@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Ij8*Q#jFNa1o",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME011",
+      "Name": "ARBAZKHAN N KUNDUR",
+      "Email": "2ke18me011@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "m+CkeS7$0qXM",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME013",
+      "Name": "BASAVARAJ D PARAPPANAVAR",
+      "Email": "2ke18me013@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Fl5Sb5Q%Yx&k",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME014",
+      "Name": "CHETAN SHRISHAIL KABBUR",
+      "Email": "2ke18me014@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "OxRo$4NI6qk&",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME016",
+      "Name": "CHETANSINGH HAJERI",
+      "Email": "2ke18me016@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "N*BJ5Ed+6ebq",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME017",
+      "Name": "DEEPAK HOLEYANNAVAR",
+      "Email": "2ke18me017@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "+89D%jWqbHhC",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME018",
+      "Name": "DIWAKAR S BADIGER",
+      "Email": "2ke18me018@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "$&lC7mPiKdI1",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME019",
+      "Name": "FAISALKHAN R JAHAGIRDAR",
+      "Email": "2ke18me019@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "zecVNLs1?$E3",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME020",
+      "Name": "GOURISH BASAVARAJ BAGALKOTI",
+      "Email": "2ke18me020@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "v25qLS@YV@oe",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME021",
+      "Name": "GOUTAM A HESARUR",
+      "Email": "2ke18me021@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "rdx4sNJ#6I&K",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME022",
+      "Name": "GULAPPA B CHAVANNAVAR",
+      "Email": "2ke18me022@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "*k+9cJLvJVe2",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME023",
+      "Name": "GURUSIDDESHWAR PUJAR",
+      "Email": "2ke18me023@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "SG0B*&mrw3jX",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME024",
+      "Name": "HAJIALI M SADARBHAI",
+      "Email": "2ke18me024@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "7zyT@gu&ED8P",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME025",
+      "Name": "IMRAN M SAYED",
+      "Email": "2ke18me025@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "yVa8%kG8lO@M",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME026",
+      "Name": "IRANNA METI",
+      "Email": "2ke18me026@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "GDFXii6%q9?r",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME027",
+      "Name": "JAMALI THIMMESH",
+      "Email": "2ke18me027@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "wK&bY*y0qH0I",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME028",
+      "Name": "KALAGADDA NITIN",
+      "Email": "2ke18me028@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "tt!k?4v2UBXM",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME030",
+      "Name": "KIRAN AMBANNAVAR",
+      "Email": "2ke18me030@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "EDl+Ux+2j8Tq",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME031",
+      "Name": "KIRAN M HIREMATH",
+      "Email": "2ke18me031@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "x+2R&XaYkbV0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME032",
+      "Name": "RUTVIK HEMAL KOTHARI",
+      "Email": "2ke18me032@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "sOo*Oe!P71Nk",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME033",
+      "Name": "KRUTIKA S PHIRANGI",
+      "Email": "2ke18me033@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "!Y#Es4tccGI7",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME034",
+      "Name": "LAZARUS BENJAMIN",
+      "Email": "2ke18me034@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "E1c7Vs@#hBOk",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME035",
+      "Name": "MADANAPALLI RUBENPRASHANT REDDY",
+      "Email": "2ke18me035@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "uZUk5Av+%xF1",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME036",
+      "Name": "MADHU VERNEKAR",
+      "Email": "2ke18me036@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "XpS1y&b$jT3W",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME038",
+      "Name": "MANOJKUMAR G GOPALI",
+      "Email": "2ke18me038@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "0lHmnaRW?#7T",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME039",
+      "Name": "MOHAMMED SHAH KHADRI",
+      "Email": "2ke18me039@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "e5mlrCU!2C!Z",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME040",
+      "Name": "MOTHI VINAYAKA",
+      "Email": "2ke18me040@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "3CPs#5Thf!Bm",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME041",
+      "Name": "MRUTHYUNJAYA F KAPPATTANAVAR",
+      "Email": "2ke18me041@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "*5Vn&cHdXuE8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME042",
+      "Name": "N AKASH",
+      "Email": "2ke18me042@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "&rv8VkG3Ax*I",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME043",
+      "Name": "NAGARAJ R GUDADINNI",
+      "Email": "2ke18me043@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "@XoZ$4QOmww9",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME045",
+      "Name": "NAVEENKUMAR S JAKKALI",
+      "Email": "2ke18me045@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "?9lwPQ$V3rkC",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME046",
+      "Name": "NAYANKUMAR K SHETTY",
+      "Email": "2ke18me046@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "*#72RqIJzarE",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME047",
+      "Name": "NETRA B ALUR",
+      "Email": "2ke18me047@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "A2mUmV@@Abj6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME048",
+      "Name": "NITISH N NAIK",
+      "Email": "2ke18me048@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "&ZEah$C9Ecb3",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME049",
+      "Name": "NIVEDA G RAMAPUR",
+      "Email": "2ke18me049@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "az8ASauX?%W2",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME051",
+      "Name": "PATKI VAIBHAV DEEPAK",
+      "Email": "2ke18me051@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "GY&t2zqo3K$Q",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME052",
+      "Name": "PAVITRA KRISHNARADDI BUDIHAL",
+      "Email": "2ke18me052@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "uR+3!B4KPlfo",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME053",
+      "Name": "POOJA B ABBIGERI",
+      "Email": "2ke18me053@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "TKlKEri3**d7",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME054",
+      "Name": "PRADYUMNA ANAND SANGAM",
+      "Email": "2ke18me054@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "1+0e*DMbirNI",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME055",
+      "Name": "PRAJWAL SANGAMMANAVAR",
+      "Email": "2ke18me055@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "y6T**8RigKbJ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME056",
+      "Name": "PRASANNA YALAGURESH JOSHI",
+      "Email": "2ke18me056@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "VeIl3V+?X8vr",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME057",
+      "Name": "PRASHANT PATTANSHETTI",
+      "Email": "2ke18me057@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "+5MTcn$Wf2Sk",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME058",
+      "Name": "PRATEEK EKBOTE",
+      "Email": "2ke18me058@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "B2m*bYGa4&Eo",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME059",
+      "Name": "PRAVEEN KARADIGUDD",
+      "Email": "2ke18me059@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "&RIC&s4F1gdk",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME060",
+      "Name": "PRAVEEN SOMAPUR",
+      "Email": "2ke18me060@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "cUP7qb0*@DCx",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME061",
+      "Name": "PREMKUMAR N MUGABASAV",
+      "Email": "2ke18me061@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "L5zJ8r#p#xYG",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME062",
+      "Name": "PRERANA KULKARNI",
+      "Email": "2ke18me062@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "ko40fwO%VEZ?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME063",
+      "Name": "PRUTHVI R PAWAR",
+      "Email": "2ke18me063@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "j7O8lt#TE+Qv",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME064",
+      "Name": "R RAHUL",
+      "Email": "2ke18me064@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "5iE*rRjI&9mC",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME066",
+      "Name": "RAHUL MAILARAPPA KURTAKOTI",
+      "Email": "2ke18me066@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Ux4GQk&6a*mE",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME067",
+      "Name": "RAJAT S M",
+      "Email": "2ke18me067@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "9+mR4w+vRQuP",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME068",
+      "Name": "RAJEEV J PATIL",
+      "Email": "2ke18me068@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Z$5Wn6oaKT!b",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME069",
+      "Name": "RAKESH AGASAR",
+      "Email": "2ke18me069@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "yX3KpY&4Fen?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME070",
+      "Name": "RAMESH V MALASAMUDRA",
+      "Email": "2ke18me070@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "tDmG9!Q*Mgx5",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME071",
+      "Name": "RANGANATH PUJERI",
+      "Email": "2ke18me071@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Z1EsK0?O$tib",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME072",
+      "Name": "RAVIKIRAN R PUJAR",
+      "Email": "2ke18me072@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "r!ZAa10!zzLC",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME073",
+      "Name": "RITIKA S KORISHETTI",
+      "Email": "2ke18me073@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Gn+Bi3t0N?Vp",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME074",
+      "Name": "ROHIT B AMBERKAR",
+      "Email": "2ke18me074@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "5wHo1e?S#fFS",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME075",
+      "Name": "SAKSHI S SHETTY",
+      "Email": "2ke18me075@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "!xSuAHd@3z3U",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME076",
+      "Name": "SANDEEPA P PATILA",
+      "Email": "2ke18me076@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "5G%oaUL&bcF8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME077",
+      "Name": "SANJANA",
+      "Email": "2ke18me077@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "J8Q9N&psTlc#",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME078",
+      "Name": "SANTOSHKUMAR RAMSINGH NAYAK",
+      "Email": "2ke18me078@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Iv%0aqLi8!JL",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME079",
+      "Name": "SHARAD HONGAL",
+      "Email": "2ke18me079@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "#NAME?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME081",
+      "Name": "SHIVANAND I ANGADI",
+      "Email": "2ke18me081@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "&3&ZalAsRNo6",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME083",
+      "Name": "SHRADDHA R SHILLEN",
+      "Email": "2ke18me083@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "#7rSNs+n2bWP",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME084",
+      "Name": "SHREYA B AKKI",
+      "Email": "2ke18me084@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "k%6f2$xGjFJX",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME085",
+      "Name": "SHRIDHAR GANI",
+      "Email": "2ke18me085@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "ASN?5Ytuvx7?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME086",
+      "Name": "SHRIDHAR R MUTALIK DESAI",
+      "Email": "2ke18me086@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "!cNME9H+8zvt",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME088",
+      "Name": "SIDDARTH MOKASHI",
+      "Email": "2ke18me088@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Q8WzTm!$f4Rw",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME089",
+      "Name": "SIRMAS K",
+      "Email": "2ke18me089@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "#f1nXBpZBa8*",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME090",
+      "Name": "SONALI A JADHAV",
+      "Email": "2ke18me090@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "5vm*4gPpE#DL",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME091",
+      "Name": "SUJITH P",
+      "Email": "2ke18me091@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "#c6flWLhD2#K",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME093",
+      "Name": "SUMEDH M DEVALAPUR",
+      "Email": "2ke18me093@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "3On3Rg*Ctn%L",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME094",
+      "Name": "SUPRITA SIDDAPPA HARUGERI",
+      "Email": "2ke18me094@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "GV?Cf$zYn7j5",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME095",
+      "Name": "TRISHUL J SHETTY",
+      "Email": "2ke18me095@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "XiAi@r2$XT3c",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME096",
+      "Name": "VEERESH KONGI",
+      "Email": "2ke18me096@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "8VEBwqN2$+sn",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME097",
+      "Name": "VIKRAM HATTIHOLI",
+      "Email": "2ke18me097@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "I0ff@*v2YvLN",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME098",
+      "Name": "VINAYAK C GOBBER",
+      "Email": "2ke18me098@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "RrO8F$Vr+e9t",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME099",
+      "Name": "VINAYAK KAMADOLLI",
+      "Email": "2ke18me099@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "C0Mbf?U#m7jI",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME100",
+      "Name": "VINAYAK UMESH HEBBALLI",
+      "Email": "2ke18me100@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "QI58n$EUopq!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME101",
+      "Name": "VIRESH SANGAMMANAVAR",
+      "Email": "2ke18me101@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "%GS7$fBm7pSx",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME102",
+      "Name": "VISHAL PANTHAGANI",
+      "Email": "2ke18me102@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "#NAME?",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME103",
+      "Name": "VISHWANATH B TAMMANAVAR",
+      "Email": "2ke18me103@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Ao2*nFCI1rh+",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME104",
+      "Name": "VIVEKANAND V YALIWAL",
+      "Email": "2ke18me104@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "r@EJ8l&G5sOp",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME105",
+      "Name": "YASHWANTH M TAWADE",
+      "Email": "2ke18me105@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "#dx2GrL+V8fQ",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE18ME106",
+      "Name": "KISHAN S RATHOD",
+      "Email": "2ke18me106@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "suJ7bI4E+Bt#",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME400",
+      "Name": "ABDULKHADAR J MAGAVI",
+      "Email": "2ke19me400@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Axe#%NSRy5m0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME401",
+      "Name": "ABHISHEK KAMADOLLI",
+      "Email": "2ke19me401@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "H5sVJC8gq%&e",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME402",
+      "Name": "AFFAN S CHAGAN",
+      "Email": "2ke19me402@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "EGrv*8gQQ!6s",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME403",
+      "Name": "AHMED RAZA M BICHAGATTI",
+      "Email": "2ke19me403@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "%5QpwPiTw!L8",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME404",
+      "Name": "ANWAR H AJAMATAKHAN",
+      "Email": "2ke19me404@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Oie?wqOZ1$9S",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME405",
+      "Name": "DANISHIQBAL JAMADAR",
+      "Email": "2ke19me405@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "7MVwDgw!8$jH",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME406",
+      "Name": "HEENAKOUSAR DONI",
+      "Email": "2ke19me406@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "#OjE61&soLEy",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME407",
+      "Name": "HRISHIKESH VASUDEV BAGALKOT",
+      "Email": "2ke19me407@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Q7+dC$Kq9Rsy",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME408",
+      "Name": "IMAMUDDEEN MULGUND",
+      "Email": "2ke19me408@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "+Un#7LKjNs4a",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME409",
+      "Name": "ISAAC TEETLA",
+      "Email": "2ke19me409@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "o4?Ga5z%YyZS",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME410",
+      "Name": "KARTHIK OOTAWALE",
+      "Email": "2ke19me410@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "dfi0GM@1S*fA",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME411",
+      "Name": "MALIKREHAN PATAYATH",
+      "Email": "2ke19me411@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "@97*gJjROqfI",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME412",
+      "Name": "MANJANAGOUDA HALEMANI",
+      "Email": "2ke19me412@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "!8LG4lHJdeg$",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME413",
+      "Name": "MANJUNATH NAIK",
+      "Email": "2ke19me413@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "3sm@fA9Fi%SG",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME414",
+      "Name": "MOHAMMEDZUBER TIGADI",
+      "Email": "2ke19me414@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "t9trq4%GFK%D",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME415",
+      "Name": "MUNEER NAIKAR",
+      "Email": "2ke19me415@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "B%SpWb9&uxE2",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME416",
+      "Name": "PRABHU DYAMANAGOUDRA",
+      "Email": "2ke19me416@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "p5jB5XyhB&W@",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME417",
+      "Name": "PRASANNA MAHALHAVALDAR",
+      "Email": "2ke19me417@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "*M3@Jggi8XlB",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME418",
+      "Name": "RAHUL ARAGI",
+      "Email": "2ke19me418@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "#Et2nu$5GFDf",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME419",
+      "Name": "SACHIN SUNAGAR",
+      "Email": "2ke19me419@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "Qn1tRJV+5k#s",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME420",
+      "Name": "SAMARTH B MALLAPUR",
+      "Email": "2ke19me420@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "?T4no$EdP1Ks",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME421",
+      "Name": "SAMARTH M BALWANTI",
+      "Email": "2ke19me421@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "hTQ@i?7lJeP0",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME423",
+      "Name": "SAMEER GUNARI",
+      "Email": "2ke19me423@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "1Xj3mXG?Fq*y",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME424",
+      "Name": "SANJAY S HOSAMANI",
+      "Email": "2ke19me424@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "q2niREO%Q2h&",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME425",
+      "Name": "SANTOSH S NAVALGUND",
+      "Email": "2ke19me425@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "lHKn5S+7$bQe",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME426",
+      "Name": "SHAILENDRAKUMAR M NAZARE",
+      "Email": "2ke19me426@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "u%x9eNB9Z@Vj",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME427",
+      "Name": "SHASHANK M ONKAR",
+      "Email": "2ke19me427@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "g8#VHg4xJOs#",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME428",
+      "Name": "SHREENIDHI SHRIKANT KULKARNI",
+      "Email": "2ke19me428@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "H41QA%jOypc!",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME429",
+      "Name": "SHRIRAM RAVINDRA JOSHI",
+      "Email": "2ke19me429@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "QDsg9q%3M@aN",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME430",
+      "Name": "SUBHAJEET M",
+      "Email": "2ke19me430@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "K6GU%id3l#Yt",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME431",
+      "Name": "SUDHANVA B KULKARNI",
+      "Email": "2ke19me431@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "y0$NT#DxVxm1",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME432",
+      "Name": "SURYA PANDIT CHINCHALI",
+      "Email": "2ke19me432@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "gW4bm5r!ZV+O",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME433",
+      "Name": "TEJASWINI T",
+      "Email": "2ke19me433@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "kL4@%iHtChY7",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME434",
+      "Name": "VARUN LAKKAMMANAVAR",
+      "Email": "2ke19me434@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "qz6*QR5oZxJ%",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME435",
+      "Name": "VASANT M PAI",
+      "Email": "2ke19me435@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "axV3&Xh8%pRV",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME436",
+      "Name": "VINAYAK BASAVARAJ HULYAL",
+      "Email": "2ke19me436@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "ZB0?Vs7Pxf!q",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME437",
+      "Name": "VIRESH MURAGAYYA BELLERIMATH",
+      "Email": "2ke19me437@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "BdQk4@W*oG4f",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME438",
+      "Name": "VISHNUDAS BHAT",
+      "Email": "2ke19me438@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "I7*g+NO6tnZe",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    },
+    {
+      "id": "2KE19ME439",
+      "Name": "VIVEKANAND VERNEKAR",
+      "Email": "2ke19me439@kleit.ac.in",
+      "Branch": "Mechanical",
+      "Password": "ET#n4!kfPX3b",
+      "openelectives": "",
+      "openelectiveconfirm": ""
+    }
+  ]
+}

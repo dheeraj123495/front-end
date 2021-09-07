@@ -6,84 +6,129 @@
 .profile{
     height: 100vh;
     width: 100%;
-    /* background-color: red; */
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 .mainProfile{
-    border-radius: 100px;
-    border: 10px solid black;
-    padding: 20px;
+    border-radius: 30px;
+    border: 5px solid black;
+    padding: 30px;
     display: flex;
     flex-direction: column;
 }
-
 .name{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(224, 224, 224);
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 20px;
     font-size: x-large;
-    /* background-color: blue; */
 }
 .details{
+    border-radius: 20px;
+    /* background-color: rgb(224, 224, 224); */
+    padding: 10px;
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     align-items: left;
     justify-content: left;
-    padding: 20px;
-    /* background-color: blueviolet; */
 }
-h3{
-    margin: 10px;
+.details>h2{
+    font-size: 20px;
 }
 .cells{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    border-radius: 10px;
+    grid-template-columns: 1fr 1fr;
 }
 
-@media screen and (max-width:700px){
-    .mainProfile{
-        padding:10%;    
-        margin: 50% 15% 40% 60%;
-    }
-    h3{
-     font-size: 15px;
-    }
-}
 .cell{
+    background-color: rgb(224, 224, 224);
+    border-radius: 7px;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 50px;
-    width: 150px;
-    /* margin: 5px; */
-    
-    /* background-color: aqua; */
+    margin: 2px;
+    /* height: 50px; */
+    /* border: 1px solid black; */
+    padding: 10px;
 }
+
 .heading{
     font-weight: bold;
-    font-size: large;
 }
-button{
-    width: 100px;
+.buttonProfile>button{
+    font-weight: bold;
+    width: 150px;
     padding: 5px;
     background-color: rgb(3, 3, 3);
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     border: 0;
-    border-radius: 50px;
-}
-.button{
-    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.5s;
+} 
+.buttonProfile{
+    padding: 10px;
     margin: 20px 0 0 0 ;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-
-button:hover{
-    background-color: rgb(255, 71, 71);
-    color: black;
+.buttonProfile>button:hover{
+    font-weight: bold;
+    background-color: rgb(214, 214, 214);
+    color: rgb(0, 0, 0);
+} 
+.userName{
+    font-size: 25px;
+}
+@media screen and (max-width:720px){
+    .mainProfile{
+        padding:30px;    
+        /* margin: 50% 15% 40% 60%; */
+    }
+    h3{
+     font-size: 15px;
+    }
+    .cell{
+        font-size: 15px;
+    }
+    .name>h1{
+        font-size: 30px;
+    }
+    .userName{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:400px) {
+    .name>h1{
+        font-size: 15px;
+    }
+    .name>h1>span{
+        font-size: 15px;
+    }
+    .details>h2{
+        font-size: 15px;
+    }
+    .mainProfile{
+        width: 300px;
+    }
+    .cell{
+        width: 110px;
+        font-size: 10px;
+    }
+    .buttonProfile>button{
+        font-size: 12px;
+        font-weight: bold;
+        width: 80px;
+        padding: 5px;
+        background-color: rgb(3, 3, 3);
+        color: rgb(255, 255, 255);
+        border: 0;
+        border-radius: 5px;
+    } 
 }
