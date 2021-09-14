@@ -8,7 +8,6 @@ const initialValues = {
   Name: "",
   Email: "",
   Password: "",
-  auth: "",
 };
 const Login = () => {
   const [user, setUser] = useState(initialValues);
@@ -16,7 +15,12 @@ const Login = () => {
   let history = useHistory();
   const onValueChange = (e) => {
     setUser({ ...user, [e.target.name]: e.target.value });
+    console.log(user)
   };
+
+  const confirmation = (e) => {
+    e.preventDefault();
+  }
   const confirm = async (e) => {
     e.preventDefault();
     console.log(id);
@@ -24,7 +28,6 @@ const Login = () => {
     if (id == response.data.id && Password == response.data.Password) {
       alert("Login Successful...");
       localStorage.setItem("password", `${Password}`);
-      // await setUser(id);
       history.push(`/profile/${id}`);
     } else {
       console.log("Error occured...");

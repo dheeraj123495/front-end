@@ -1,79 +1,75 @@
-import React, {useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import "./Profile.css";
-import {useParams, useHistory} from "react-router-dom"
-import { getUsers } from "../Service/api";
-
+import { useParams, useHistory } from "react-router-dom";
+import firebaseDb from "../firebase";
 const initialValues = {
-    id: "",
-    Name: "",
-    Email: "",
-    Password: "",
-    Branch: "",
-    openelectives: "",
-    openelectiveconfirm: "",
+  Name: "",
+  Email: "",
+  Password: "",
+  Branch: "",
+  openelectives: "",
+  openelectiveconfirm: "",
 };
 
 function Profile() {
+  const history = useHistory();
 
-    const auth = localStorage.getItem('password')
+  const [users, setUser] = useState(initialValues);
+  // const [display, setDisplay] = useState(initialValues);
+  const { id } = useParams();
 
-    const history = useHistory();
+  useEffect(() => {
+    loadUserDetails();
+  }, []);
 
-    const handleClick = () => {
-        localStorage.clear();
-        history.push('/login');
-    }
+  const loadUserDetails = async () => {
+    const userRef = firebaseDb.database().ref(`users/${id}`);
+    userRef.on("value", (snapshot) => {
+      if (snapshot.val()) {
+        console.log(snapshot.val());
+        setUser(snapshot.val());
+      } else {
+        alert("Please enter a valid ID...");
+      }
+    });
+  };
 
+  const handleClick = () => {
+    history.push("/login");
+  };
 
-    const [user, setUser] = useState(initialValues)
-    const {id} = useParams();
-
-    useEffect(() => {
-        getAllUsers();
-    },[])
-
-    const getAllUsers = async () => {
-        const response = await getUsers(id);
-        console.log(response.data);
-        setUser(response.data);
-    }
-
-    // document.onclick = () => {
-    //     if(auth!=user.Password){
-    //         handleClick();
-    //     }
-    // }
-       
-
-  
-
-    const handleHomePage = () => {
-        history.push(`/New/${id}`);
-    }
+  const handleHomePage = () => {
+    history.push(`/New/${id}`);
+  };
 
   return (
-    <div className="profile">
-      <div className="mainProfile">
-        <div className="name">
-          <h1>Welcome, <span className="userName"> {user.Name} </span></h1>
-        </div>
-        <div className="details">
-          <h2>Email: {user.Email}</h2>
-          <h2>USN: {id}</h2>
-          <h2>Branch: {user.Branch}</h2>
-        </div>
+    <div>
+      
+      <div className="profile">
+        <div className="mainProfile">
+          <div className="name">
+            <h1>
+              Welcome, <span className="userName"> {users.Name} </span>
+            </h1>
+          </div>
+          <div className="details">
+            <h2>Email: {users.Email}</h2>
+            <h2>USN: {users.id}</h2>
+            <h2>Branch: {users.Branch}</h2>
+          </div>
 
-        <div className="cells">
-          <div className="cell heading">Subject</div>
-          {/* <div className="cell heading">Subject Code</div> */}
-          <div className="cell heading">Confirmation</div>
-          <div className="cell">{user.openelectives}</div>
-          {/* <div className="cell">18EC37</div> */}
-          <div className="cell">{user.openelectiveconfirm}</div>
-        </div>
-        <div className="buttonProfile">
-          <button  onClick={()=>handleClick()}>Log Out</button>
-          <button onClick={()=>handleHomePage()}>Home Page</button>
+          <div className="cells">
+            <div className="cell heading">Subject</div>
+            {/* <div className="cell heading">Subject Code</div> */}
+            <div className="cell heading">Confirmation</div>
+            <div className="cell">{users.openelectives}</div>
+            {/* <div className="cell">18EC37</div> */}
+            <div className="cell">{users.openelectiveconfirm}</div>
+          </div>
+          <div className="buttonProfile">
+            <button onClick={() => handleClick()}>Log Out</button>
+            <button onClick={() => handleHomePage()}>Home Page</button>
+          </div>
         </div>
       </div>
     </div>

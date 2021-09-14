@@ -4,6 +4,8 @@ import "./demo.css";
 import { useParams, useHistory } from "react-router-dom";
 import { getUsers, editUser } from "../Service/api";
 import Navbar from "./Navbar";
+import firebaseDb from "../firebase";
+
 const initialValues = {
   id: "",
   Name: "",
@@ -21,64 +23,36 @@ function DSD() {
   const history = useHistory();
 
   const [user, setUser] = useState(initialValues);
+  const [display, setDisplay ] = useState(initialValues);
 
-  const handleClick = async () => {
-    console.log(professionalSubject);
-    console.log(user.openelectives);
-    console.log(user);
-    console.log(user);
-    if (user.openelectives != "") {
-      const response = await editUser(id, user);
-      history.push(`/profile/${id}`);
-    }
-      // history.push(`/profile/${id}`);
-    // } else {
-    //   alert("Already applied...");
-    // }
-  };
-  let colors = [];
-  if (user.openelectives == "") {
-    colors.push("enable");
-  } else {
-    colors.push("disable");
-  }
-  const onValueChange = (e) => {
-    console.log(e.target.value);
-    console.log(user)
-    if(user.openelectives==""){
-      setUser({ ...user, [e.target.name]: professionalSubject });
-    }
-    console.log(user);
-  };
-
-  const buttonClicked = () => {
-    console.log("Button clicked...");
-  };
-
-  const button = () => {
-    console.log("Hello");
-  };
 
   useEffect(() => {
-    getAllUsers();
+    loadUserDetails();
   }, []);
 
-  const getAllUsers = async () => {
-    const response = await getUsers(id);
-    console.log(response.data);
-    setUser(response.data);
-    authentication();
+  const loadUserDetails = async () => {
+    const userRef = await firebaseDb.database().ref(`users/${id}`);
+    userRef.on("value", (snapshot) => {
+      console.log(snapshot.val());
+      setUser(snapshot.val());
+    });
+  };
+  const handleClick = async () => {
+    setDisplay(user);
+    if (user.openelectives == "") {
+      alert("Please choose the subject...");
+    } else {
+      console.log(display);
+      const todoRef = firebaseDb.database().ref(`users/${id}`);
+      todoRef.update(user);
+      history.push(`/profile/${id}`);
+    }
   };
 
-  //   document.onclick = () => {
-  //     if (auth != user.Password) {
-  //       handleClick();
-  //     }
-  //   };
-
-  const authentication = () => {
-    if (!auth) {
-      handleClick();
+  const onValueChange = (e) => {
+    console.log(user);
+    if (user.openelectives == "") {
+      setUser({ ...user, [e.target.name]: professionalSubject });
     }
   };
   const professionalSubject = "Digital Systems Designing VHDL";

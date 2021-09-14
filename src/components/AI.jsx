@@ -4,6 +4,7 @@ import "./demo.css";
 import { useParams, useHistory } from "react-router-dom";
 import { getUsers, editUser } from "../Service/api";
 import Navbar from "./Navbar";
+import firebaseDb from "../firebase";
 
 const initialValues = {
   id: "",
@@ -24,62 +25,45 @@ function AI() {
   const history = useHistory();
 
   const [user, setUser] = useState(initialValues);
-
-  const {
-    Id,
-    Name,
-    Email,
-    Password,
-    Branch,
-    openelectives,
-    openelectiveconfirm,
-  } = user;
-
-  const buttonClicked = () => {
-    console.log("Button clicked...");
-  };
-
-  const button = () => {
-    console.log("Hello");
-  };
+  const [display, setDisplay] = useState(initialValues);
+  // const {
+  //   Id,
+  //   Name,
+  //   Email,
+  //   Password,
+  //   Branch,
+  //   openelectives,
+  //   openelectiveconfirm,
+  // } = user;
 
   useEffect(() => {
-    getAllUsers();
+    loadUserDetails();
   }, []);
 
-  const getAllUsers = async () => {
-    const response = await getUsers(id);
-    console.log(response.data);
-    setUser(response.data);
-    // console.log(auth);
+  const loadUserDetails = async () => {
+    const userRef = await firebaseDb.database().ref(`users/${id}`);
+    userRef.on("value", (snapshot) => {
+      console.log(snapshot.val());
+      setUser(snapshot.val());
+    });
   };
-
   const handleClick = async () => {
-    console.log(professionalSubject);
-    console.log(user.openelectives);
-    console.log(user);
-    console.log(user);
-    if (user.openelectives != "") {
-      const response = await editUser(id, user);
+    setDisplay(user);
+    if (user.openelectives == "") {
+      alert("Please choose the subject...");
+    } else {
+      console.log(display);
+      const todoRef = firebaseDb.database().ref(`users/${id}`);
+      todoRef.update(user);
       history.push(`/profile/${id}`);
     }
   };
 
-  let colors = [];
-
-  if (user.openelectives == ""){
-    colors.push("enable");
-  } else {
-    colors.push("disable");
-  }
-
   const onValueChange = (e) => {
-    console.log(e.target.value);
-    console.log(user)
-    if(user.openelectives==""){
+    console.log(user);
+    if (user.openelectives == "") {
       setUser({ ...user, [e.target.name]: professionalSubject });
     }
-    console.log(user);
   };
 
   return (

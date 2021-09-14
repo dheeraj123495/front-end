@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.hodTitle{
+    display: flex;
+    background-color: rgb(160, 160, 160);
+}

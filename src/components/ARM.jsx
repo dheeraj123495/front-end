@@ -4,6 +4,8 @@ import "./demo.css";
 import { useParams, useHistory } from "react-router-dom";
 import { getUsers, editUser } from "../Service/api";
 import Navbar from "./Navbar";
+import firebaseDb from "../firebase";
+
 const initialValues = {
   id: "",
   Name: "",
@@ -21,51 +23,37 @@ function ARM() {
   const history = useHistory();
 
   const [user, setUser] = useState(initialValues);
-  let colors = [];
-
-  const handleClick = async () => {
-    console.log(professionalSubject);
-    console.log(user.openelectives);
-    console.log(user);
-    console.log(user);
-    if (user.openelectives != "") {
-      const response = await editUser(id, user);
-      history.push(`/profile/${id}`);
-    }
-      // history.push(`/profile/${id}`);
-    // } else {
-    //   alert("Already applied...");
-    // }
-  };
-  if (user.openelectives == "") {
-    colors.push("enable");
-  } else {
-    colors.push("disable");
-  }
-  const onValueChange = (e) => {
-    console.log(e.target.value);
-    console.log(user)
-    if(user.openelectives==""){
-      setUser({ ...user, [e.target.name]: professionalSubject });
-    }
-    console.log(user);
-  };
+  const [display, setDisplay ] = useState(initialValues);
 
   useEffect(() => {
-    getAllUsers();
+    loadUserDetails();
   }, []);
 
-  const getAllUsers = async () => {
-    const response = await getUsers(id);
-    console.log(response.data);
-    setUser(response.data);
+  const loadUserDetails = async () => {
+    const userRef = await firebaseDb.database().ref(`users/${id}`);
+    userRef.on("value", (snapshot) => {
+      console.log(snapshot.val());
+      setUser(snapshot.val());
+    });
+  };
+  const handleClick = async () => {
+    setDisplay(user);
+    if (user.openelectives == "") {
+      alert("Please choose the subject...");
+    } else {
+      console.log(display);
+      const todoRef = firebaseDb.database().ref(`users/${id}`);
+      todoRef.update(user);
+      history.push(`/profile/${id}`);
+    }
   };
 
-  if (user.openelectives == "") {
-    colors.push("enable");
-  } else {
-    colors.push("disable");
-  }
+  const onValueChange = (e) => {
+    console.log(user);
+    if (user.openelectives == "") {
+      setUser({ ...user, [e.target.name]: professionalSubject });
+    }
+  };
   const professionalSubject = "Arm Embedded Systems";
 
   return (
@@ -80,7 +68,6 @@ function ARM() {
         </div>
 
         <div className="courses">
-          {/* <div className="box1"> <h3>Faculty: Dr. Yerriswammy<sub>M. tech, PHD</sub></h3></div> */}
 
           <div className="box2">
             <ul>

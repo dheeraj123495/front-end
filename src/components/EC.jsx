@@ -33,7 +33,6 @@ function EC() {
     setUser(response.data);
   };
 
-
   const cse = () => {
     history.push(`/CSE/${id}`);
   };

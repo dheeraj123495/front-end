@@ -23,7 +23,9 @@ import NMA from "./Components/NMA";
 import Phy from "./Components/Phy";
 import Mat from "./Components/Mat";
 import EPM from "./Components/EPM";
+import Developers from "./Components/Developers";
 import Notfound from "./Components/Notfound";
+import HodInterface from "./Admin/AllUsers";
 
 function App() {
   const Password = localStorage.getItem("password");
@@ -32,6 +34,8 @@ function App() {
       <div>
         <BrowserRouter>
           <Switch>
+            <Route exact path="/developers" component={Developers} />
+            <Route exact path="/HOD" component={HodInterface} />
             <Route exact path="/New/:id" component={New} />
             <Route exact path="/" component={Login} />
             <Route exact path="/profile/:id" component={Profile} />

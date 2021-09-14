@@ -1,68 +1,10 @@
-
-.mybox{
-
-  border: 10px solid;
-  border-radius: 25px;
-  padding: 20px;
-  position: absolute;
-  right: 100px;
-  left:10%;
-  top:15% ;
-  border-color: #151515;
-  height: 80%;
-  background-color: rgb(255, 255, 255);
+.container{
+  padding-top: 50px;
+  width: 500px;
+  height: 100vh;
+  background-color: red;
 }
-
-.ai{
-  position: absolute;
-  top: 10%;
-  left:23%;
-  font-weight: bold;
-  margin: 0 auto;
-  text-align: center;
-  font-size: 50px;
+.container>.name{
+  height: 100px;
+  background-color: blue;
 }
-
-.brain{
-  border-radius: 50%;
-  position: absolute;
-  top: 20%;
-  left:5%;
-  height:150px;
-  width:150px;
-}
-
-form{
-	position: absolute;
-	top: 25%;
-	left:23%;
-}
-
-.table {
-	margin: 50px;
-	margin-bottom:10px;
-	margin-left: 30px;
-	width: 500px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,21 +1,21 @@
 {
   "users": [
     {
+      "id": "421",
+      "Name": "Dr. Yerre Swami",
+      "Email": "csehod2@kleit.ac.in",
+      "Branch": "Computer Science",
+      "Password": "hod@123",
+      "openelectives": "",
+      "openelectiveconfirm": "",
+      "auth": ""
+    },
+    {
       "id": "2KE19CS072",
       "Name": "PRITHVIRAJ K TAGADINAMANI",
       "Email": "2ke19cs072@kleit.ac.in",
       "Branch": "Computer Science",
       "Password": "putti",
-      "openelectives": "Artificial Intelligence",
-      "openelectiveconfirm": "",
-      "auth": ""
-    },
-    {
-      "id": "2KE19CS027",
-      "Name": "Dheeraj S Pawar",
-      "Email": "2ke19cs027@kleit.ac.in",
-      "Branch": "Computer Science",
-      "Password": "Devil",
       "openelectives": "Artificial Intelligence",
       "openelectiveconfirm": "",
       "auth": ""
@@ -36,7 +36,7 @@
       "Email": "2ke19cs056@kleit.ac.in",
       "Branch": "Computer Science",
       "Password": "neha@123",
-      "openelectives": "Communication Theory",
+      "openelectives": "",
       "openelectiveconfirm": "Decision pending",
       "auth": ""
     },
